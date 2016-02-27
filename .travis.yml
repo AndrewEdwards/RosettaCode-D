@@ -1,0 +1,9 @@
+language: d
+sudo: false
+
+os:
+  - osx
+  - linux
+  
+script:
+  - ./build.sh
