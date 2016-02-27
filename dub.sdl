@@ -30,11 +30,12 @@ subPackage {
 }
 
 subPackage {
-	name "24-game-Solve"
+	name "24-game-solve"
 	targetType "executable"
-	targetName "24-game-Solve"
+	targetName "24-game-solve"
 	targetPath "run"
-	sourcePaths "source/24-game-Solve"
+	sourcePaths "source/24-game-solve"
+	dependency "rosettacode-d:permutations-2"
 }
 
 subPackage {
@@ -1146,11 +1147,20 @@ subPackage {
 }
 
 subPackage {
-	name "Dinesmans-multiple-dwelling-problem"
+	name "dinesmans-multiple-dwelling-problem-1"
 	targetType "executable"
-	targetName "Dinesmans-multiple-dwelling-problem"
+	targetName "dinesmans-multiple-dwelling-problem-1"
 	targetPath "run"
-	sourcePaths "source/Dinesmans-multiple-dwelling-problem"
+	sourcePaths "source/dinesmans-multiple-dwelling-problem-1"
+	dependency "rosettacode-d:permutations-2"
+}
+
+subPackage {
+	name "dinesmans-multiple-dwelling-problem-2"
+	targetType "executable"
+	targetName "dinesmans-multiple-dwelling-problem-2"
+	targetPath "run"
+	sourcePaths "source/dinesmans-multiple-dwelling-problem-2"
 }
 
 subPackage {
@@ -1746,11 +1756,29 @@ subPackage {
 }
 
 subPackage {
-	name "Generate-Chess960-starting-position"
+	name "generate-chess960-starting-position-1"
 	targetType "executable"
-	targetName "Generate-Chess960-starting-position"
+	targetName "generate-chess960-starting-position-1"
 	targetPath "run"
-	sourcePaths "source/Generate-Chess960-starting-position"
+	sourcePaths "source/generate-chess960-starting-position-1"
+	dependency "rosettacode-d:permutations-2" version="*"
+}
+
+subPackage {
+	name "generate-chess960-starting-position-2"
+	targetType "executable"
+	targetName "generate-chess960-starting-position-2"
+	targetPath "run"
+	sourcePaths "source/generate-chess960-starting-position-2"
+	dependency "rosettacode-d:permutations-2" version="*"
+}
+
+subPackage {
+	name "generate-chess960-starting-position-3"
+	targetType "executable"
+	targetName "generate-chess960-starting-position-3"
+	targetPath "run"
+	sourcePaths "source/generate-chess960-starting-position-3"
 }
 
 subPackage {
@@ -2370,11 +2398,12 @@ subPackage {
 }
 
 subPackage {
-	name "Largest-int-from-concatenated-ints"
+	name "largest-int-from-concatenated-ints"
 	targetType "executable"
-	targetName "Largest-int-from-concatenated-ints"
+	targetName "largest-int-from-concatenated-ints"
 	targetPath "run"
-	sourcePaths "source/Largest-int-from-concatenated-ints"
+	sourcePaths "source/largest-int-from-concatenated-ints"
+	dependency "rosettacode-d:permutations-2" version="*"
 }
 
 subPackage {
@@ -2714,11 +2743,12 @@ subPackage {
 }
 
 subPackage {
-	name "Matrix-arithmetic"
+	name "matrix-arithmetic"
 	targetType "executable"
-	targetName "Matrix-arithmetic"
+	targetName "matrix-arithmetic"
 	targetPath "run"
-	sourcePaths "source/Matrix-arithmetic"
+	sourcePaths "source/matrix-arithmetic"
+	dependency "rosettacode-d:permutations-2" version="*"
 }
 
 subPackage {
@@ -2922,11 +2952,31 @@ subPackage {
 }
 
 subPackage {
-	name "N-queens-problem"
+	name "n-queens-problem-1"
 	targetType "executable"
-	targetName "N-queens-problem"
+	targetName "n-queens-problem-1"
 	targetPath "run"
-	sourcePaths "source/N-queens-problem"
+	sourcePaths "source/n-queens-problem-1"
+	dependency "rosettacode-d:permutations-2" version="*"
+
+}
+
+subPackage {
+	name "n-queens-problem-2"
+	targetType "executable"
+	targetName "n-queens-problem-2"
+	targetPath "run"
+	sourcePaths "source/n-queens-problem-2"
+
+}
+
+subPackage {
+	name "n-queens-problem-3"
+	targetType "executable"
+	targetName "n-queens-problem-3"
+	targetPath "run"
+	sourcePaths "source/n-queens-problem-3"
+
 }
 
 subPackage {
@@ -3282,11 +3332,28 @@ subPackage {
 }
 
 subPackage {
-	name "Permutations"
+	name "permutations-1"
 	targetType "executable"
-	targetName "Permutations"
+	targetName "permutations-1"
 	targetPath "run"
-	sourcePaths "source/Permutations"
+	sourcePaths "source/permutations-1"
+}
+
+subPackage {
+	name "permutations-2"
+	targetType "executable"
+	targetName "permutations-2"
+	targetPath "run"
+	sourcePaths "source/permutations-2"
+	versions "permutations2_main"
+}
+
+subPackage {
+	name "permutations-3"
+	targetType "executable"
+	targetName "permutations-3"
+	targetPath "run"
+	sourcePaths "source/permutations-3"
 }
 
 subPackage {
@@ -4242,11 +4309,20 @@ subPackage {
 }
 
 subPackage {
-	name "Sorting-algorithms-Permutation-sort"
+	name "sorting-algorithms-permutation-sort-1"
 	targetType "executable"
-	targetName "Sorting-algorithms-Permutation-sort"
+	targetName "sorting-algorithms-permutation-sort-1"
 	targetPath "run"
-	sourcePaths "source/Sorting-algorithms-Permutation-sort"
+	sourcePaths "source/sorting-algorithms-permutation-sort-1"
+	dependency "rosettacode-d:permutations-2" version="*"
+}
+
+subPackage {
+	name "sorting-algorithms-permutation-sort-2"
+	targetType "executable"
+	targetName "sorting-algorithms-permutation-sort-2"
+	targetPath "run"
+	sourcePaths "source/sorting-algorithms-permutation-sort-2"
 }
 
 subPackage {
@@ -4770,11 +4846,20 @@ subPackage {
 }
 
 subPackage {
-	name "Topswops"
+	name "topswops-1"
 	targetType "executable"
-	targetName "Topswops"
+	targetName "topswops-1"
 	targetPath "run"
-	sourcePaths "source/Topswops"
+	sourcePaths "source/topswops-1"
+	dependency "rosettacode-d:permutations-2" version="*"
+}
+
+subPackage {
+	name "topswops-2"
+	targetType "executable"
+	targetName "topswops-2"
+	targetPath "run"
+	sourcePaths "source/topswops-2"
 }
 
 subPackage {

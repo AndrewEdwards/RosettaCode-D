@@ -3,7 +3,7 @@
 dub build :100-doors-1
 dub build :100-doors-2
 dub build :24-game
-dub build :24-game-Solve
+dub build :24-game-solve
 dub build :9-billion-names-of-God-the-integer
 dub build :99-Bottles-of-Beer
 dub build :A+B
@@ -142,7 +142,8 @@ dub build :Detect-division-by-zero
 dub build :Determine-if-a-string-is-numeric
 dub build :Digital-root
 dub build :Digital-root-Multiplicative-digital-root
-dub build :Dinesmans-multiple-dwelling-problem
+dub build :dinesmans-multiple-dwelling-problem-1
+dub build :dinesmans-multiple-dwelling-problem-2
 dub build :Dining-philosophers
 dub build :Discordian-date
 dub build :Distributed-programming
@@ -217,7 +218,9 @@ dub build :Function-prototype
 dub build :Galton-box-animation
 dub build :Gamma-function
 dub build :Gaussian-elimination
-dub build :Generate-Chess960-starting-position
+dub build :generate-chess960-starting-position-1
+dub build :generate-chess960-starting-position-2
+dub build :generate-chess960-starting-position-3
 dub build :Generate-lower-case-ASCII-alphabet
 dub build :Generator-Exponential
 dub build :Generic-swap
@@ -295,7 +298,7 @@ dub build :Knuths-algorithm-S
 dub build :LU-decomposition
 dub build :LZW-compression
 dub build :Langtons-ant
-dub build :Largest-int-from-concatenated-ints
+dub build :largest-int-from-concatenated-ints
 dub build :Last-Friday-of-each-month
 dub build :Last-letter-first-letter
 dub build :Leap-year
@@ -338,7 +341,7 @@ dub build :Main-step-of-GOST-28147-89
 dub build :Man-or-boy-test
 dub build :Mandelbrot-set
 dub build :Map-range
-dub build :Matrix-arithmetic
+dub build :matrix-arithmetic
 dub build :Matrix-exponentiation-operator
 dub build :Matrix-multiplication
 dub build :Matrix-transposition
@@ -364,7 +367,9 @@ dub build :Multiplication-tables
 dub build :Multisplit
 dub build :Munching-squares
 dub build :Mutual-recursion
-dub build :N-queens-problem
+dub build :n-queens-problem-1
+dub build :n-queens-problem-2
+dub build :n-queens-problem-3
 dub build :Narcissistic-decimal-number
 dub build :Natural-sorting
 dub build :Nautical-bell
@@ -409,7 +414,9 @@ dub build :Percolation-Mean-run-density
 dub build :Percolation-Site-percolation
 dub build :Perfect-numbers
 dub build :Permutation-test
-dub build :Permutations
+dub build :permutations-1
+dub build :permutations-2
+dub build :permutations-3
 dub build :Permutations-Derangements
 dub build :Permutations-Rank-of-a-permutation
 dub build :Permutations-by-swapping
@@ -529,7 +536,8 @@ dub build :Sorting-algorithms-Heapsort
 dub build :Sorting-algorithms-Insertion-sort
 dub build :Sorting-algorithms-Merge-sort
 dub build :Sorting-algorithms-Pancake-sort
-dub build :Sorting-algorithms-Permutation-sort
+dub build :sorting-algorithms-permutation-sort-1
+dub build :sorting-algorithms-permutation-sort-2
 dub build :Sorting-algorithms-Quicksort
 dub build :Sorting-algorithms-Radix-sort
 dub build :Sorting-algorithms-Selection-sort
@@ -595,7 +603,8 @@ dub build :Time-a-function
 dub build :Tokenize-a-string
 dub build :Top-rank-per-group
 dub build :Topological-sort
-dub build :Topswops
+dub build :topswops-1
+dub build :topswops-2
 dub build :Total-circles-area
 dub build :Towers-of-Hanoi
 dub build :Trabb-Pardo-Knuth-algorithm
