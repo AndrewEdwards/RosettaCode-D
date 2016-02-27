@@ -1,0 +1,5198 @@
+name "rosettacode-d"
+description "Package for testing RosettaCode"
+copyright "Copyright © 2016, AndrewEdwards"
+authors "AndrewEdwards"
+targetType "none"
+buildOptions "unittests"
+
+subPackage {
+	name "100-doors-1"
+	targetType "executable"
+	targetName "100-doors-1"
+	targetPath "run"
+	sourcePaths "source/100-doors-1"
+}
+
+subPackage {
+	name "100-doors-2"
+	targetType "executable"
+	targetName "100-doors-2"
+	targetPath "run"
+	sourcePaths "source/100-doors-2"
+}
+
+subPackage {
+	name "24-game"
+	targetType "executable"
+	targetName "24-game"
+	targetPath "run"
+	sourcePaths "source/24-game"
+}
+
+subPackage {
+	name "24-game-Solve"
+	targetType "executable"
+	targetName "24-game-Solve"
+	targetPath "run"
+	sourcePaths "source/24-game-Solve"
+}
+
+subPackage {
+	name "9-billion-names-of-God-the-integer"
+	targetType "executable"
+	targetName "9-billion-names-of-God-the-integer"
+	targetPath "run"
+	sourcePaths "source/9-billion-names-of-God-the-integer"
+}
+
+subPackage {
+	name "99-Bottles-of-Beer"
+	targetType "executable"
+	targetName "99-Bottles-of-Beer"
+	targetPath "run"
+	sourcePaths "source/99-Bottles-of-Beer"
+}
+
+subPackage {
+	name "A+B"
+	targetType "executable"
+	targetName "A+B"
+	targetPath "run"
+	sourcePaths "source/A+B"
+}
+
+subPackage {
+	name "ABC-Problem"
+	targetType "executable"
+	targetName "ABC-Problem"
+	targetPath "run"
+	sourcePaths "source/ABC-Problem"
+}
+
+subPackage {
+	name "AKS-test-for-primes"
+	targetType "executable"
+	targetName "AKS-test-for-primes"
+	targetPath "run"
+	sourcePaths "source/AKS-test-for-primes"
+}
+
+subPackage {
+	name "Abstract-type"
+	targetType "executable"
+	targetName "Abstract-type"
+	targetPath "run"
+	sourcePaths "source/Abstract-type"
+}
+
+subPackage {
+	name "Abundant-deficient-and-perfect-number-classifications"
+	targetType "executable"
+	targetName "Abundant-deficient-and-perfect-number-classifications"
+	targetPath "run"
+	sourcePaths "source/Abundant-deficient-and-perfect-number-classifications"
+}
+
+subPackage {
+	name "Accumulator-factory"
+	targetType "executable"
+	targetName "Accumulator-factory"
+	targetPath "run"
+	sourcePaths "source/Accumulator-factory"
+}
+
+subPackage {
+	name "Ackermann-function"
+	targetType "executable"
+	targetName "Ackermann-function"
+	targetPath "run"
+	sourcePaths "source/Ackermann-function"
+}
+
+subPackage {
+	name "Add-a-variable-to-a-class-instance-at-runtime"
+	targetType "executable"
+	targetName "Add-a-variable-to-a-class-instance-at-runtime"
+	targetPath "run"
+	sourcePaths "source/Add-a-variable-to-a-class-instance-at-runtime"
+}
+
+subPackage {
+	name "Address-of-a-variable"
+	targetType "executable"
+	targetName "Address-of-a-variable"
+	targetPath "run"
+	sourcePaths "source/Address-of-a-variable"
+}
+
+subPackage {
+	name "Align-columns"
+	targetType "executable"
+	targetName "Align-columns"
+	targetPath "run"
+	sourcePaths "source/Align-columns"
+}
+
+subPackage {
+	name "Aliquot-sequence-classifications"
+	targetType "executable"
+	targetName "Aliquot-sequence-classifications"
+	targetPath "run"
+	sourcePaths "source/Aliquot-sequence-classifications"
+}
+
+subPackage {
+	name "Almost-prime"
+	targetType "executable"
+	targetName "Almost-prime"
+	targetPath "run"
+	sourcePaths "source/Almost-prime"
+}
+
+subPackage {
+	name "Amb"
+	targetType "executable"
+	targetName "Amb"
+	targetPath "run"
+	sourcePaths "source/Amb"
+}
+
+subPackage {
+	name "Amicable-pairs"
+	targetType "executable"
+	targetName "Amicable-pairs"
+	targetPath "run"
+	sourcePaths "source/Amicable-pairs"
+}
+
+subPackage {
+	name "Anagrams-Deranged-anagrams"
+	targetType "executable"
+	targetName "Anagrams-Deranged-anagrams"
+	targetPath "run"
+	sourcePaths "source/Anagrams-Deranged-anagrams"
+}
+
+subPackage {
+	name "Animation"
+	targetType "executable"
+	targetName "Animation"
+	targetPath "run"
+	sourcePaths "source/Animation"
+}
+
+subPackage {
+	name "Anonymous-recursion"
+	targetType "executable"
+	targetName "Anonymous-recursion"
+	targetPath "run"
+	sourcePaths "source/Anonymous-recursion"
+}
+
+subPackage {
+	name "Apply-a-callback-to-an-array"
+	targetType "executable"
+	targetName "Apply-a-callback-to-an-array"
+	targetPath "run"
+	sourcePaths "source/Apply-a-callback-to-an-array"
+}
+
+subPackage {
+	name "Arbitrary-precision-integers-included"
+	targetType "executable"
+	targetName "Arbitrary-precision-integers-included"
+	targetPath "run"
+	sourcePaths "source/Arbitrary-precision-integers-included"
+}
+
+subPackage {
+	name "Arithmetic-Complex"
+	targetType "executable"
+	targetName "Arithmetic-Complex"
+	targetPath "run"
+	sourcePaths "source/Arithmetic-Complex"
+}
+
+subPackage {
+	name "Arithmetic-Integer"
+	targetType "executable"
+	targetName "Arithmetic-Integer"
+	targetPath "run"
+	sourcePaths "source/Arithmetic-Integer"
+}
+
+subPackage {
+	name "Arithmetic-Rational"
+	targetType "executable"
+	targetName "Arithmetic-Rational"
+	targetPath "run"
+	sourcePaths "source/Arithmetic-Rational"
+}
+
+subPackage {
+	name "Arithmetic-evaluation"
+	targetType "executable"
+	targetName "Arithmetic-evaluation"
+	targetPath "run"
+	sourcePaths "source/Arithmetic-evaluation"
+}
+
+subPackage {
+	name "Arithmetic-geometric-mean"
+	targetType "executable"
+	targetName "Arithmetic-geometric-mean"
+	targetPath "run"
+	sourcePaths "source/Arithmetic-geometric-mean"
+}
+
+subPackage {
+	name "Array-concatenation"
+	targetType "executable"
+	targetName "Array-concatenation"
+	targetPath "run"
+	sourcePaths "source/Array-concatenation"
+}
+
+subPackage {
+	name "Arrays"
+	targetType "executable"
+	targetName "Arrays"
+	targetPath "run"
+	sourcePaths "source/Arrays"
+}
+
+subPackage {
+	name "Assertions"
+	targetType "executable"
+	targetName "Assertions"
+	targetPath "run"
+	sourcePaths "source/Assertions"
+}
+
+subPackage {
+	name "Associative-array-Creation"
+	targetType "executable"
+	targetName "Associative-array-Creation"
+	targetPath "run"
+	sourcePaths "source/Associative-array-Creation"
+}
+
+subPackage {
+	name "Associative-array-Iteration"
+	targetType "executable"
+	targetName "Associative-array-Iteration"
+	targetPath "run"
+	sourcePaths "source/Associative-array-Iteration"
+}
+
+subPackage {
+	name "Atomic-updates"
+	targetType "executable"
+	targetName "Atomic-updates"
+	targetPath "run"
+	sourcePaths "source/Atomic-updates"
+}
+
+subPackage {
+	name "Average-loop-length"
+	targetType "executable"
+	targetName "Average-loop-length"
+	targetPath "run"
+	sourcePaths "source/Average-loop-length"
+}
+
+subPackage {
+	name "Averages-Arithmetic-mean"
+	targetType "executable"
+	targetName "Averages-Arithmetic-mean"
+	targetPath "run"
+	sourcePaths "source/Averages-Arithmetic-mean"
+}
+
+subPackage {
+	name "Averages-Mean-angle"
+	targetType "executable"
+	targetName "Averages-Mean-angle"
+	targetPath "run"
+	sourcePaths "source/Averages-Mean-angle"
+}
+
+subPackage {
+	name "Averages-Mean-time-of-day"
+	targetType "executable"
+	targetName "Averages-Mean-time-of-day"
+	targetPath "run"
+	sourcePaths "source/Averages-Mean-time-of-day"
+}
+
+subPackage {
+	name "Averages-Median"
+	targetType "executable"
+	targetName "Averages-Median"
+	targetPath "run"
+	sourcePaths "source/Averages-Median"
+}
+
+subPackage {
+	name "Averages-Mode"
+	targetType "executable"
+	targetName "Averages-Mode"
+	targetPath "run"
+	sourcePaths "source/Averages-Mode"
+}
+
+subPackage {
+	name "Averages-Pythagorean-means"
+	targetType "executable"
+	targetName "Averages-Pythagorean-means"
+	targetPath "run"
+	sourcePaths "source/Averages-Pythagorean-means"
+}
+
+subPackage {
+	name "Averages-Root-mean-square"
+	targetType "executable"
+	targetName "Averages-Root-mean-square"
+	targetPath "run"
+	sourcePaths "source/Averages-Root-mean-square"
+}
+
+subPackage {
+	name "Averages-Simple-moving-average"
+	targetType "executable"
+	targetName "Averages-Simple-moving-average"
+	targetPath "run"
+	sourcePaths "source/Averages-Simple-moving-average"
+}
+
+subPackage {
+	name "Balanced-brackets"
+	targetType "executable"
+	targetName "Balanced-brackets"
+	targetPath "run"
+	sourcePaths "source/Balanced-brackets"
+}
+
+subPackage {
+	name "Balanced-ternary"
+	targetType "executable"
+	targetName "Balanced-ternary"
+	targetPath "run"
+	sourcePaths "source/Balanced-ternary"
+}
+
+subPackage {
+	name "Benfords-law"
+	targetType "executable"
+	targetName "Benfords-law"
+	targetPath "run"
+	sourcePaths "source/Benfords-law"
+}
+
+subPackage {
+	name "Bernoulli-numbers"
+	targetType "executable"
+	targetName "Bernoulli-numbers"
+	targetPath "run"
+	sourcePaths "source/Bernoulli-numbers"
+}
+
+subPackage {
+	name "Best-shuffle"
+	targetType "executable"
+	targetName "Best-shuffle"
+	targetPath "run"
+	sourcePaths "source/Best-shuffle"
+}
+
+subPackage {
+	name "Binary-digits"
+	targetType "executable"
+	targetName "Binary-digits"
+	targetPath "run"
+	sourcePaths "source/Binary-digits"
+}
+
+subPackage {
+	name "Binary-search"
+	targetType "executable"
+	targetName "Binary-search"
+	targetPath "run"
+	sourcePaths "source/Binary-search"
+}
+
+subPackage {
+	name "Binary-strings"
+	targetType "executable"
+	targetName "Binary-strings"
+	targetPath "run"
+	sourcePaths "source/Binary-strings"
+}
+
+subPackage {
+	name "Bitcoin-address-validation"
+	targetType "executable"
+	targetName "Bitcoin-address-validation"
+	targetPath "run"
+	sourcePaths "source/Bitcoin-address-validation"
+}
+
+subPackage {
+	name "Bitcoin-public-point-to-address"
+	targetType "executable"
+	targetName "Bitcoin-public-point-to-address"
+	targetPath "run"
+	sourcePaths "source/Bitcoin-public-point-to-address"
+}
+
+subPackage {
+	name "Bitmap"
+	targetType "executable"
+	targetName "Bitmap"
+	targetPath "run"
+	sourcePaths "source/Bitmap"
+}
+
+subPackage {
+	name "Bitmap-B-zier-curves-Cubic"
+	targetType "executable"
+	targetName "Bitmap-B-zier-curves-Cubic"
+	targetPath "run"
+	sourcePaths "source/Bitmap-B-zier-curves-Cubic"
+}
+
+subPackage {
+	name "Bitmap-B-zier-curves-Quadratic"
+	targetType "executable"
+	targetName "Bitmap-B-zier-curves-Quadratic"
+	targetPath "run"
+	sourcePaths "source/Bitmap-B-zier-curves-Quadratic"
+}
+
+subPackage {
+	name "Bitmap-Bresenhams-line-algorithm"
+	targetType "executable"
+	targetName "Bitmap-Bresenhams-line-algorithm"
+	targetPath "run"
+	sourcePaths "source/Bitmap-Bresenhams-line-algorithm"
+}
+
+subPackage {
+	name "Bitmap-Flood-fill"
+	targetType "executable"
+	targetName "Bitmap-Flood-fill"
+	targetPath "run"
+	sourcePaths "source/Bitmap-Flood-fill"
+}
+
+subPackage {
+	name "Bitmap-Histogram"
+	targetType "executable"
+	targetName "Bitmap-Histogram"
+	targetPath "run"
+	sourcePaths "source/Bitmap-Histogram"
+}
+
+subPackage {
+	name "Bitmap-Midpoint-circle-algorithm"
+	targetType "executable"
+	targetName "Bitmap-Midpoint-circle-algorithm"
+	targetPath "run"
+	sourcePaths "source/Bitmap-Midpoint-circle-algorithm"
+}
+
+subPackage {
+	name "Bitwise-IO"
+	targetType "executable"
+	targetName "Bitwise-IO"
+	targetPath "run"
+	sourcePaths "source/Bitwise-IO"
+}
+
+subPackage {
+	name "Bitwise-operations"
+	targetType "executable"
+	targetName "Bitwise-operations"
+	targetPath "run"
+	sourcePaths "source/Bitwise-operations"
+}
+
+subPackage {
+	name "Box-the-compass"
+	targetType "executable"
+	targetName "Box-the-compass"
+	targetPath "run"
+	sourcePaths "source/Box-the-compass"
+}
+
+subPackage {
+	name "Brownian-tree"
+	targetType "executable"
+	targetName "Brownian-tree"
+	targetPath "run"
+	sourcePaths "source/Brownian-tree"
+}
+
+subPackage {
+	name "Bulls-and-cows"
+	targetType "executable"
+	targetName "Bulls-and-cows"
+	targetPath "run"
+	sourcePaths "source/Bulls-and-cows"
+}
+
+subPackage {
+	name "Bulls-and-cows-Player"
+	targetType "executable"
+	targetName "Bulls-and-cows-Player"
+	targetPath "run"
+	sourcePaths "source/Bulls-and-cows-Player"
+}
+
+subPackage {
+	name "CRC-32"
+	targetType "executable"
+	targetName "CRC-32"
+	targetPath "run"
+	sourcePaths "source/CRC-32"
+}
+
+subPackage {
+	name "CSV-data-manipulation"
+	targetType "executable"
+	targetName "CSV-data-manipulation"
+	targetPath "run"
+	sourcePaths "source/CSV-data-manipulation"
+}
+
+subPackage {
+	name "CSV-to-HTML-translation"
+	targetType "executable"
+	targetName "CSV-to-HTML-translation"
+	targetPath "run"
+	sourcePaths "source/CSV-to-HTML-translation"
+}
+
+subPackage {
+	name "Caesar-cipher"
+	targetType "executable"
+	targetName "Caesar-cipher"
+	targetPath "run"
+	sourcePaths "source/Caesar-cipher"
+}
+
+subPackage {
+	name "Calendar"
+	targetType "executable"
+	targetName "Calendar"
+	targetPath "run"
+	sourcePaths "source/Calendar"
+}
+
+subPackage {
+	name "Calendar-for-real-programmers"
+	targetType "executable"
+	targetName "Calendar-for-real-programmers"
+	targetPath "run"
+	sourcePaths "source/Calendar-for-real-programmers"
+}
+
+subPackage {
+	name "Call-a-foreign-language-function"
+	targetType "executable"
+	targetName "Call-a-foreign-language-function"
+	targetPath "run"
+	sourcePaths "source/Call-a-foreign-language-function"
+}
+
+subPackage {
+	name "Call-a-function"
+	targetType "executable"
+	targetName "Call-a-function"
+	targetPath "run"
+	sourcePaths "source/Call-a-function"
+}
+
+subPackage {
+	name "Call-a-function-in-a-shared-library"
+	targetType "executable"
+	targetName "Call-a-function-in-a-shared-library"
+	targetPath "run"
+	sourcePaths "source/Call-a-function-in-a-shared-library"
+}
+
+subPackage {
+	name "Call-an-object-method"
+	targetType "executable"
+	targetName "Call-an-object-method"
+	targetPath "run"
+	sourcePaths "source/Call-an-object-method"
+}
+
+subPackage {
+	name "Canny-edge-detector"
+	targetType "executable"
+	targetName "Canny-edge-detector"
+	targetPath "run"
+	sourcePaths "source/Canny-edge-detector"
+}
+
+subPackage {
+	name "Carmichael-3-strong-pseudoprimes"
+	targetType "executable"
+	targetName "Carmichael-3-strong-pseudoprimes"
+	targetPath "run"
+	sourcePaths "source/Carmichael-3-strong-pseudoprimes"
+}
+
+subPackage {
+	name "Case-sensitivity-of-identifiers"
+	targetType "executable"
+	targetName "Case-sensitivity-of-identifiers"
+	targetPath "run"
+	sourcePaths "source/Case-sensitivity-of-identifiers"
+}
+
+subPackage {
+	name "Casting-out-nines"
+	targetType "executable"
+	targetName "Casting-out-nines"
+	targetPath "run"
+	sourcePaths "source/Casting-out-nines"
+}
+
+subPackage {
+	name "Catalan-numbers"
+	targetType "executable"
+	targetName "Catalan-numbers"
+	targetPath "run"
+	sourcePaths "source/Catalan-numbers"
+}
+
+subPackage {
+	name "Catalan-numbers-Pascals-triangle"
+	targetType "executable"
+	targetName "Catalan-numbers-Pascals-triangle"
+	targetPath "run"
+	sourcePaths "source/Catalan-numbers-Pascals-triangle"
+}
+
+subPackage {
+	name "Catamorphism"
+	targetType "executable"
+	targetName "Catamorphism"
+	targetPath "run"
+	sourcePaths "source/Catamorphism"
+}
+
+subPackage {
+	name "Character-codes"
+	targetType "executable"
+	targetName "Character-codes"
+	targetPath "run"
+	sourcePaths "source/Character-codes"
+}
+
+subPackage {
+	name "Check-Machin-like-formulas"
+	targetType "executable"
+	targetName "Check-Machin-like-formulas"
+	targetPath "run"
+	sourcePaths "source/Check-Machin-like-formulas"
+}
+
+subPackage {
+	name "Check-that-file-exists"
+	targetType "executable"
+	targetName "Check-that-file-exists"
+	targetPath "run"
+	sourcePaths "source/Check-that-file-exists"
+}
+
+subPackage {
+	name "Checkpoint-synchronization"
+	targetType "executable"
+	targetName "Checkpoint-synchronization"
+	targetPath "run"
+	sourcePaths "source/Checkpoint-synchronization"
+}
+
+subPackage {
+	name "Chinese-remainder-theorem"
+	targetType "executable"
+	targetName "Chinese-remainder-theorem"
+	targetPath "run"
+	sourcePaths "source/Chinese-remainder-theorem"
+}
+
+subPackage {
+	name "Cholesky-decomposition"
+	targetType "executable"
+	targetName "Cholesky-decomposition"
+	targetPath "run"
+	sourcePaths "source/Cholesky-decomposition"
+}
+
+subPackage {
+	name "Circles-of-given-radius-through-two-points"
+	targetType "executable"
+	targetName "Circles-of-given-radius-through-two-points"
+	targetPath "run"
+	sourcePaths "source/Circles-of-given-radius-through-two-points"
+}
+
+subPackage {
+	name "Classes"
+	targetType "executable"
+	targetName "Classes"
+	targetPath "run"
+	sourcePaths "source/Classes"
+}
+
+subPackage {
+	name "Closest-pair-problem"
+	targetType "executable"
+	targetName "Closest-pair-problem"
+	targetPath "run"
+	sourcePaths "source/Closest-pair-problem"
+}
+
+subPackage {
+	name "Closures-Value-capture"
+	targetType "executable"
+	targetName "Closures-Value-capture"
+	targetPath "run"
+	sourcePaths "source/Closures-Value-capture"
+}
+
+subPackage {
+	name "Collections"
+	targetType "executable"
+	targetName "Collections"
+	targetPath "run"
+	sourcePaths "source/Collections"
+}
+
+subPackage {
+	name "Color-quantization"
+	targetType "executable"
+	targetName "Color-quantization"
+	targetPath "run"
+	sourcePaths "source/Color-quantization"
+}
+
+subPackage {
+	name "Combinations"
+	targetType "executable"
+	targetName "Combinations"
+	targetPath "run"
+	sourcePaths "source/Combinations"
+}
+
+subPackage {
+	name "Combinations-and-permutations"
+	targetType "executable"
+	targetName "Combinations-and-permutations"
+	targetPath "run"
+	sourcePaths "source/Combinations-and-permutations"
+}
+
+subPackage {
+	name "Combinations-with-repetitions"
+	targetType "executable"
+	targetName "Combinations-with-repetitions"
+	targetPath "run"
+	sourcePaths "source/Combinations-with-repetitions"
+}
+
+subPackage {
+	name "Comma-quibbling"
+	targetType "executable"
+	targetName "Comma-quibbling"
+	targetPath "run"
+	sourcePaths "source/Comma-quibbling"
+}
+
+subPackage {
+	name "Command-line-arguments"
+	targetType "executable"
+	targetName "Command-line-arguments"
+	targetPath "run"
+	sourcePaths "source/Command-line-arguments"
+}
+
+subPackage {
+	name "Comments"
+	targetType "executable"
+	targetName "Comments"
+	targetPath "run"
+	sourcePaths "source/Comments"
+}
+
+subPackage {
+	name "Compare-sorting-algorithms-performance"
+	targetType "executable"
+	targetName "Compare-sorting-algorithms-performance"
+	targetPath "run"
+	sourcePaths "source/Compare-sorting-algorithms-performance"
+}
+
+subPackage {
+	name "Compile-time-calculation"
+	targetType "executable"
+	targetName "Compile-time-calculation"
+	targetPath "run"
+	sourcePaths "source/Compile-time-calculation"
+}
+
+subPackage {
+	name "Compound-data-type"
+	targetType "executable"
+	targetName "Compound-data-type"
+	targetPath "run"
+	sourcePaths "source/Compound-data-type"
+}
+
+subPackage {
+	name "Concurrent-computing"
+	targetType "executable"
+	targetName "Concurrent-computing"
+	targetPath "run"
+	sourcePaths "source/Concurrent-computing"
+}
+
+subPackage {
+	name "Conditional-structures"
+	targetType "executable"
+	targetName "Conditional-structures"
+	targetPath "run"
+	sourcePaths "source/Conditional-structures"
+}
+
+subPackage {
+	name "Conjugate-transpose"
+	targetType "executable"
+	targetName "Conjugate-transpose"
+	targetPath "run"
+	sourcePaths "source/Conjugate-transpose"
+}
+
+subPackage {
+	name "Constrained-genericity"
+	targetType "executable"
+	targetName "Constrained-genericity"
+	targetPath "run"
+	sourcePaths "source/Constrained-genericity"
+}
+
+subPackage {
+	name "Constrained-random-points-on-a-circle"
+	targetType "executable"
+	targetName "Constrained-random-points-on-a-circle"
+	targetPath "run"
+	sourcePaths "source/Constrained-random-points-on-a-circle"
+}
+
+subPackage {
+	name "Continued-fraction"
+	targetType "executable"
+	targetName "Continued-fraction"
+	targetPath "run"
+	sourcePaths "source/Continued-fraction"
+}
+
+subPackage {
+	name "Convert-decimal-number-to-rational"
+	targetType "executable"
+	targetName "Convert-decimal-number-to-rational"
+	targetPath "run"
+	sourcePaths "source/Convert-decimal-number-to-rational"
+}
+
+subPackage {
+	name "Conways-Game-of-Life"
+	targetType "executable"
+	targetName "Conways-Game-of-Life"
+	targetPath "run"
+	sourcePaths "source/Conways-Game-of-Life"
+}
+
+subPackage {
+	name "Copy-a-string"
+	targetType "executable"
+	targetName "Copy-a-string"
+	targetPath "run"
+	sourcePaths "source/Copy-a-string"
+}
+
+subPackage {
+	name "Count-in-factors"
+	targetType "executable"
+	targetName "Count-in-factors"
+	targetPath "run"
+	sourcePaths "source/Count-in-factors"
+}
+
+subPackage {
+	name "Count-in-octal"
+	targetType "executable"
+	targetName "Count-in-octal"
+	targetPath "run"
+	sourcePaths "source/Count-in-octal"
+}
+
+subPackage {
+	name "Count-occurrences-of-a-substring"
+	targetType "executable"
+	targetName "Count-occurrences-of-a-substring"
+	targetPath "run"
+	sourcePaths "source/Count-occurrences-of-a-substring"
+}
+
+subPackage {
+	name "Count-the-coins"
+	targetType "executable"
+	targetName "Count-the-coins"
+	targetPath "run"
+	sourcePaths "source/Count-the-coins"
+}
+
+subPackage {
+	name "Create-a-file"
+	targetType "executable"
+	targetName "Create-a-file"
+	targetPath "run"
+	sourcePaths "source/Create-a-file"
+}
+
+subPackage {
+	name "Create-a-two-dimensional-array-at-runtime"
+	targetType "executable"
+	targetName "Create-a-two-dimensional-array-at-runtime"
+	targetPath "run"
+	sourcePaths "source/Create-a-two-dimensional-array-at-runtime"
+}
+
+subPackage {
+	name "Create-an-HTML-table"
+	targetType "executable"
+	targetName "Create-an-HTML-table"
+	targetPath "run"
+	sourcePaths "source/Create-an-HTML-table"
+}
+
+subPackage {
+	name "Create-an-object-at-a-given-address"
+	targetType "executable"
+	targetName "Create-an-object-at-a-given-address"
+	targetPath "run"
+	sourcePaths "source/Create-an-object-at-a-given-address"
+}
+
+subPackage {
+	name "Currying"
+	targetType "executable"
+	targetName "Currying"
+	targetPath "run"
+	sourcePaths "source/Currying"
+}
+
+subPackage {
+	name "Cut-a-rectangle"
+	targetType "executable"
+	targetName "Cut-a-rectangle"
+	targetPath "run"
+	sourcePaths "source/Cut-a-rectangle"
+}
+
+subPackage {
+	name "DNS-query"
+	targetType "executable"
+	targetName "DNS-query"
+	targetPath "run"
+	sourcePaths "source/DNS-query"
+}
+
+subPackage {
+	name "Date-format"
+	targetType "executable"
+	targetName "Date-format"
+	targetPath "run"
+	sourcePaths "source/Date-format"
+}
+
+subPackage {
+	name "Day-of-the-week"
+	targetType "executable"
+	targetName "Day-of-the-week"
+	targetPath "run"
+	sourcePaths "source/Day-of-the-week"
+}
+
+subPackage {
+	name "Deal-cards-for-FreeCell"
+	targetType "executable"
+	targetName "Deal-cards-for-FreeCell"
+	targetPath "run"
+	sourcePaths "source/Deal-cards-for-FreeCell"
+}
+
+subPackage {
+	name "Death-Star"
+	targetType "executable"
+	targetName "Death-Star"
+	targetPath "run"
+	sourcePaths "source/Death-Star"
+}
+
+subPackage {
+	name "Deconvolution-1D"
+	targetType "executable"
+	targetName "Deconvolution-1D"
+	targetPath "run"
+	sourcePaths "source/Deconvolution-1D"
+}
+
+subPackage {
+	name "Deconvolution-2D-plus"
+	targetType "executable"
+	targetName "Deconvolution-2D-plus"
+	targetPath "run"
+	sourcePaths "source/Deconvolution-2D-plus"
+}
+
+subPackage {
+	name "Define-a-primitive-data-type"
+	targetType "executable"
+	targetName "Define-a-primitive-data-type"
+	targetPath "run"
+	sourcePaths "source/Define-a-primitive-data-type"
+}
+
+subPackage {
+	name "Delegates"
+	targetType "executable"
+	targetName "Delegates"
+	targetPath "run"
+	sourcePaths "source/Delegates"
+}
+
+subPackage {
+	name "Delete-a-file"
+	targetType "executable"
+	targetName "Delete-a-file"
+	targetPath "run"
+	sourcePaths "source/Delete-a-file"
+}
+
+subPackage {
+	name "Detect-division-by-zero"
+	targetType "executable"
+	targetName "Detect-division-by-zero"
+	targetPath "run"
+	sourcePaths "source/Detect-division-by-zero"
+}
+
+subPackage {
+	name "Determine-if-a-string-is-numeric"
+	targetType "executable"
+	targetName "Determine-if-a-string-is-numeric"
+	targetPath "run"
+	sourcePaths "source/Determine-if-a-string-is-numeric"
+}
+
+subPackage {
+	name "Digital-root"
+	targetType "executable"
+	targetName "Digital-root"
+	targetPath "run"
+	sourcePaths "source/Digital-root"
+}
+
+subPackage {
+	name "Digital-root-Multiplicative-digital-root"
+	targetType "executable"
+	targetName "Digital-root-Multiplicative-digital-root"
+	targetPath "run"
+	sourcePaths "source/Digital-root-Multiplicative-digital-root"
+}
+
+subPackage {
+	name "Dinesmans-multiple-dwelling-problem"
+	targetType "executable"
+	targetName "Dinesmans-multiple-dwelling-problem"
+	targetPath "run"
+	sourcePaths "source/Dinesmans-multiple-dwelling-problem"
+}
+
+subPackage {
+	name "Dining-philosophers"
+	targetType "executable"
+	targetName "Dining-philosophers"
+	targetPath "run"
+	sourcePaths "source/Dining-philosophers"
+}
+
+subPackage {
+	name "Discordian-date"
+	targetType "executable"
+	targetName "Discordian-date"
+	targetPath "run"
+	sourcePaths "source/Discordian-date"
+}
+
+subPackage {
+	name "Distributed-programming"
+	targetType "executable"
+	targetName "Distributed-programming"
+	targetPath "run"
+	sourcePaths "source/Distributed-programming"
+}
+
+subPackage {
+	name "Documentation"
+	targetType "executable"
+	targetName "Documentation"
+	targetPath "run"
+	sourcePaths "source/Documentation"
+}
+
+subPackage {
+	name "Dot-product"
+	targetType "executable"
+	targetName "Dot-product"
+	targetPath "run"
+	sourcePaths "source/Dot-product"
+}
+
+subPackage {
+	name "Doubly-linked-list-Definition"
+	targetType "executable"
+	targetName "Doubly-linked-list-Definition"
+	targetPath "run"
+	sourcePaths "source/Doubly-linked-list-Definition"
+}
+
+subPackage {
+	name "Doubly-linked-list-Element-definition"
+	targetType "executable"
+	targetName "Doubly-linked-list-Element-definition"
+	targetPath "run"
+	sourcePaths "source/Doubly-linked-list-Element-definition"
+}
+
+subPackage {
+	name "Doubly-linked-list-Element-insertion"
+	targetType "executable"
+	targetName "Doubly-linked-list-Element-insertion"
+	targetPath "run"
+	sourcePaths "source/Doubly-linked-list-Element-insertion"
+}
+
+subPackage {
+	name "Doubly-linked-list-Traversal"
+	targetType "executable"
+	targetName "Doubly-linked-list-Traversal"
+	targetPath "run"
+	sourcePaths "source/Doubly-linked-list-Traversal"
+}
+
+subPackage {
+	name "Dragon-curve"
+	targetType "executable"
+	targetName "Dragon-curve"
+	targetPath "run"
+	sourcePaths "source/Dragon-curve"
+}
+
+subPackage {
+	name "Draw-a-cuboid"
+	targetType "executable"
+	targetName "Draw-a-cuboid"
+	targetPath "run"
+	sourcePaths "source/Draw-a-cuboid"
+}
+
+subPackage {
+	name "Draw-a-sphere"
+	targetType "executable"
+	targetName "Draw-a-sphere"
+	targetPath "run"
+	sourcePaths "source/Draw-a-sphere"
+}
+
+subPackage {
+	name "Dutch-national-flag-problem"
+	targetType "executable"
+	targetName "Dutch-national-flag-problem"
+	targetPath "run"
+	sourcePaths "source/Dutch-national-flag-problem"
+}
+
+subPackage {
+	name "Echo-server"
+	targetType "executable"
+	targetName "Echo-server"
+	targetPath "run"
+	sourcePaths "source/Echo-server"
+}
+
+subPackage {
+	name "Element-wise-operations"
+	targetType "executable"
+	targetName "Element-wise-operations"
+	targetPath "run"
+	sourcePaths "source/Element-wise-operations"
+}
+
+subPackage {
+	name "Empty-directory"
+	targetType "executable"
+	targetName "Empty-directory"
+	targetPath "run"
+	sourcePaths "source/Empty-directory"
+}
+
+subPackage {
+	name "Empty-program"
+	targetType "executable"
+	targetName "Empty-program"
+	targetPath "run"
+	sourcePaths "source/Empty-program"
+}
+
+subPackage {
+	name "Empty-string"
+	targetType "executable"
+	targetName "Empty-string"
+	targetPath "run"
+	sourcePaths "source/Empty-string"
+}
+
+subPackage {
+	name "Enforced-immutability"
+	targetType "executable"
+	targetName "Enforced-immutability"
+	targetPath "run"
+	sourcePaths "source/Enforced-immutability"
+}
+
+subPackage {
+	name "Entropy"
+	targetType "executable"
+	targetName "Entropy"
+	targetPath "run"
+	sourcePaths "source/Entropy"
+}
+
+subPackage {
+	name "Enumerations"
+	targetType "executable"
+	targetName "Enumerations"
+	targetPath "run"
+	sourcePaths "source/Enumerations"
+}
+
+subPackage {
+	name "Environment-variables"
+	targetType "executable"
+	targetName "Environment-variables"
+	targetPath "run"
+	sourcePaths "source/Environment-variables"
+}
+
+subPackage {
+	name "Equilibrium-index"
+	targetType "executable"
+	targetName "Equilibrium-index"
+	targetPath "run"
+	sourcePaths "source/Equilibrium-index"
+}
+
+subPackage {
+	name "Ethiopian-multiplication"
+	targetType "executable"
+	targetName "Ethiopian-multiplication"
+	targetPath "run"
+	sourcePaths "source/Ethiopian-multiplication"
+}
+
+subPackage {
+	name "Euler-method"
+	targetType "executable"
+	targetName "Euler-method"
+	targetPath "run"
+	sourcePaths "source/Euler-method"
+}
+
+subPackage {
+	name "Evaluate-binomial-coefficients"
+	targetType "executable"
+	targetName "Evaluate-binomial-coefficients"
+	targetPath "run"
+	sourcePaths "source/Evaluate-binomial-coefficients"
+}
+
+subPackage {
+	name "Even-or-odd"
+	targetType "executable"
+	targetName "Even-or-odd"
+	targetPath "run"
+	sourcePaths "source/Even-or-odd"
+}
+
+subPackage {
+	name "Evolutionary-algorithm"
+	targetType "executable"
+	targetName "Evolutionary-algorithm"
+	targetPath "run"
+	sourcePaths "source/Evolutionary-algorithm"
+}
+
+subPackage {
+	name "Exceptions"
+	targetType "executable"
+	targetName "Exceptions"
+	targetPath "run"
+	sourcePaths "source/Exceptions"
+}
+
+subPackage {
+	name "Exceptions-Catch-an-exception-thrown-in-a-nested-call"
+	targetType "executable"
+	targetName "Exceptions-Catch-an-exception-thrown-in-a-nested-call"
+	targetPath "run"
+	sourcePaths "source/Exceptions-Catch-an-exception-thrown-in-a-nested-call"
+}
+
+subPackage {
+	name "Execute-HQ9+"
+	targetType "executable"
+	targetName "Execute-HQ9+"
+	targetPath "run"
+	sourcePaths "source/Execute-HQ9+"
+}
+
+subPackage {
+	name "Execute-a-Markov-algorithm"
+	targetType "executable"
+	targetName "Execute-a-Markov-algorithm"
+	targetPath "run"
+	sourcePaths "source/Execute-a-Markov-algorithm"
+}
+
+subPackage {
+	name "Execute-a-system-command"
+	targetType "executable"
+	targetName "Execute-a-system-command"
+	targetPath "run"
+	sourcePaths "source/Execute-a-system-command"
+}
+
+subPackage {
+	name "Exponentiation-operator"
+	targetType "executable"
+	targetName "Exponentiation-operator"
+	targetPath "run"
+	sourcePaths "source/Exponentiation-operator"
+}
+
+subPackage {
+	name "Extend-your-language"
+	targetType "executable"
+	targetName "Extend-your-language"
+	targetPath "run"
+	sourcePaths "source/Extend-your-language"
+}
+
+subPackage {
+	name "Extensible-prime-generator"
+	targetType "executable"
+	targetName "Extensible-prime-generator"
+	targetPath "run"
+	sourcePaths "source/Extensible-prime-generator"
+}
+
+subPackage {
+	name "Extreme-floating-point-values"
+	targetType "executable"
+	targetName "Extreme-floating-point-values"
+	targetPath "run"
+	sourcePaths "source/Extreme-floating-point-values"
+}
+
+subPackage {
+	name "Factorial"
+	targetType "executable"
+	targetName "Factorial"
+	targetPath "run"
+	sourcePaths "source/Factorial"
+}
+
+subPackage {
+	name "Factors-of-a-Mersenne-number"
+	targetType "executable"
+	targetName "Factors-of-a-Mersenne-number"
+	targetPath "run"
+	sourcePaths "source/Factors-of-a-Mersenne-number"
+}
+
+subPackage {
+	name "Factors-of-an-integer"
+	targetType "executable"
+	targetName "Factors-of-an-integer"
+	targetPath "run"
+	sourcePaths "source/Factors-of-an-integer"
+}
+
+subPackage {
+	name "Fast-Fourier-transform"
+	targetType "executable"
+	targetName "Fast-Fourier-transform"
+	targetPath "run"
+	sourcePaths "source/Fast-Fourier-transform"
+}
+
+subPackage {
+	name "Fibonacci-n-step-number-sequences"
+	targetType "executable"
+	targetName "Fibonacci-n-step-number-sequences"
+	targetPath "run"
+	sourcePaths "source/Fibonacci-n-step-number-sequences"
+}
+
+subPackage {
+	name "Fibonacci-sequence"
+	targetType "executable"
+	targetName "Fibonacci-sequence"
+	targetPath "run"
+	sourcePaths "source/Fibonacci-sequence"
+}
+
+subPackage {
+	name "Fibonacci-word"
+	targetType "executable"
+	targetName "Fibonacci-word"
+	targetPath "run"
+	sourcePaths "source/Fibonacci-word"
+}
+
+subPackage {
+	name "Fibonacci-word-fractal"
+	targetType "executable"
+	targetName "Fibonacci-word-fractal"
+	targetPath "run"
+	sourcePaths "source/Fibonacci-word-fractal"
+}
+
+subPackage {
+	name "File-input-output"
+	targetType "executable"
+	targetName "File-input-output"
+	targetPath "run"
+	sourcePaths "source/File-input-output"
+}
+
+subPackage {
+	name "File-modification-time"
+	targetType "executable"
+	targetName "File-modification-time"
+	targetPath "run"
+	sourcePaths "source/File-modification-time"
+}
+
+subPackage {
+	name "File-size"
+	targetType "executable"
+	targetName "File-size"
+	targetPath "run"
+	sourcePaths "source/File-size"
+}
+
+subPackage {
+	name "Filter"
+	targetType "executable"
+	targetName "Filter"
+	targetPath "run"
+	sourcePaths "source/Filter"
+}
+
+subPackage {
+	name "Find-common-directory-path"
+	targetType "executable"
+	targetName "Find-common-directory-path"
+	targetPath "run"
+	sourcePaths "source/Find-common-directory-path"
+}
+
+subPackage {
+	name "Find-limit-of-recursion"
+	targetType "executable"
+	targetName "Find-limit-of-recursion"
+	targetPath "run"
+	sourcePaths "source/Find-limit-of-recursion"
+}
+
+subPackage {
+	name "Find-the-last-Sunday-of-each-month"
+	targetType "executable"
+	targetName "Find-the-last-Sunday-of-each-month"
+	targetPath "run"
+	sourcePaths "source/Find-the-last-Sunday-of-each-month"
+}
+
+subPackage {
+	name "Find-the-missing-permutation"
+	targetType "executable"
+	targetName "Find-the-missing-permutation"
+	targetPath "run"
+	sourcePaths "source/Find-the-missing-permutation"
+}
+
+subPackage {
+	name "First-class-environments"
+	targetType "executable"
+	targetName "First-class-environments"
+	targetPath "run"
+	sourcePaths "source/First-class-environments"
+}
+
+subPackage {
+	name "First-class-functions"
+	targetType "executable"
+	targetName "First-class-functions"
+	targetPath "run"
+	sourcePaths "source/First-class-functions"
+}
+
+subPackage {
+	name "First-class-functions-Use-numbers-analogously"
+	targetType "executable"
+	targetName "First-class-functions-Use-numbers-analogously"
+	targetPath "run"
+	sourcePaths "source/First-class-functions-Use-numbers-analogously"
+}
+
+subPackage {
+	name "Five-weekends"
+	targetType "executable"
+	targetName "Five-weekends"
+	targetPath "run"
+	sourcePaths "source/Five-weekends"
+}
+
+subPackage {
+	name "FizzBuzz"
+	targetType "executable"
+	targetName "FizzBuzz"
+	targetPath "run"
+	sourcePaths "source/FizzBuzz"
+}
+
+subPackage {
+	name "Flatten-a-list"
+	targetType "executable"
+	targetName "Flatten-a-list"
+	targetPath "run"
+	sourcePaths "source/Flatten-a-list"
+}
+
+subPackage {
+	name "Flipping-bits-game"
+	targetType "executable"
+	targetName "Flipping-bits-game"
+	targetPath "run"
+	sourcePaths "source/Flipping-bits-game"
+}
+
+subPackage {
+	name "Flow-control-structures"
+	targetType "executable"
+	targetName "Flow-control-structures"
+	targetPath "run"
+	sourcePaths "source/Flow-control-structures"
+}
+
+subPackage {
+	name "Floyds-triangle"
+	targetType "executable"
+	targetName "Floyds-triangle"
+	targetPath "run"
+	sourcePaths "source/Floyds-triangle"
+}
+
+subPackage {
+	name "Forest-fire"
+	targetType "executable"
+	targetName "Forest-fire"
+	targetPath "run"
+	sourcePaths "source/Forest-fire"
+}
+
+subPackage {
+	name "Formatted-numeric-output"
+	targetType "executable"
+	targetName "Formatted-numeric-output"
+	targetPath "run"
+	sourcePaths "source/Formatted-numeric-output"
+}
+
+subPackage {
+	name "Forward-difference"
+	targetType "executable"
+	targetName "Forward-difference"
+	targetPath "run"
+	sourcePaths "source/Forward-difference"
+}
+
+subPackage {
+	name "Four-bit-adder"
+	targetType "executable"
+	targetName "Four-bit-adder"
+	targetPath "run"
+	sourcePaths "source/Four-bit-adder"
+}
+
+subPackage {
+	name "Fractal-tree"
+	targetType "executable"
+	targetName "Fractal-tree"
+	targetPath "run"
+	sourcePaths "source/Fractal-tree"
+}
+
+subPackage {
+	name "Fractran"
+	targetType "executable"
+	targetName "Fractran"
+	targetPath "run"
+	sourcePaths "source/Fractran"
+}
+
+subPackage {
+	name "Function-composition"
+	targetType "executable"
+	targetName "Function-composition"
+	targetPath "run"
+	sourcePaths "source/Function-composition"
+}
+
+subPackage {
+	name "Function-definition"
+	targetType "executable"
+	targetName "Function-definition"
+	targetPath "run"
+	sourcePaths "source/Function-definition"
+}
+
+subPackage {
+	name "Function-prototype"
+	targetType "executable"
+	targetName "Function-prototype"
+	targetPath "run"
+	sourcePaths "source/Function-prototype"
+}
+
+subPackage {
+	name "Galton-box-animation"
+	targetType "executable"
+	targetName "Galton-box-animation"
+	targetPath "run"
+	sourcePaths "source/Galton-box-animation"
+}
+
+subPackage {
+	name "Gamma-function"
+	targetType "executable"
+	targetName "Gamma-function"
+	targetPath "run"
+	sourcePaths "source/Gamma-function"
+}
+
+subPackage {
+	name "Gaussian-elimination"
+	targetType "executable"
+	targetName "Gaussian-elimination"
+	targetPath "run"
+	sourcePaths "source/Gaussian-elimination"
+}
+
+subPackage {
+	name "Generate-Chess960-starting-position"
+	targetType "executable"
+	targetName "Generate-Chess960-starting-position"
+	targetPath "run"
+	sourcePaths "source/Generate-Chess960-starting-position"
+}
+
+subPackage {
+	name "Generate-lower-case-ASCII-alphabet"
+	targetType "executable"
+	targetName "Generate-lower-case-ASCII-alphabet"
+	targetPath "run"
+	sourcePaths "source/Generate-lower-case-ASCII-alphabet"
+}
+
+subPackage {
+	name "Generator-Exponential"
+	targetType "executable"
+	targetName "Generator-Exponential"
+	targetPath "run"
+	sourcePaths "source/Generator-Exponential"
+}
+
+subPackage {
+	name "Generic-swap"
+	targetType "executable"
+	targetName "Generic-swap"
+	targetPath "run"
+	sourcePaths "source/Generic-swap"
+}
+
+subPackage {
+	name "Globally-replace-text-in-several-files"
+	targetType "executable"
+	targetName "Globally-replace-text-in-several-files"
+	targetPath "run"
+	sourcePaths "source/Globally-replace-text-in-several-files"
+}
+
+subPackage {
+	name "Gray-code"
+	targetType "executable"
+	targetName "Gray-code"
+	targetPath "run"
+	sourcePaths "source/Gray-code"
+}
+
+subPackage {
+	name "Grayscale-image"
+	targetType "executable"
+	targetName "Grayscale-image"
+	targetPath "run"
+	sourcePaths "source/Grayscale-image"
+}
+
+subPackage {
+	name "Greatest-common-divisor"
+	targetType "executable"
+	targetName "Greatest-common-divisor"
+	targetPath "run"
+	sourcePaths "source/Greatest-common-divisor"
+}
+
+subPackage {
+	name "Greatest-element-of-a-list"
+	targetType "executable"
+	targetName "Greatest-element-of-a-list"
+	targetPath "run"
+	sourcePaths "source/Greatest-element-of-a-list"
+}
+
+subPackage {
+	name "Greatest-subsequential-sum"
+	targetType "executable"
+	targetName "Greatest-subsequential-sum"
+	targetPath "run"
+	sourcePaths "source/Greatest-subsequential-sum"
+}
+
+subPackage {
+	name "Guess-the-number"
+	targetType "executable"
+	targetName "Guess-the-number"
+	targetPath "run"
+	sourcePaths "source/Guess-the-number"
+}
+
+subPackage {
+	name "Guess-the-number-With-feedback"
+	targetType "executable"
+	targetName "Guess-the-number-With-feedback"
+	targetPath "run"
+	sourcePaths "source/Guess-the-number-With-feedback"
+}
+
+subPackage {
+	name "Guess-the-number-With-feedback--player-"
+	targetType "executable"
+	targetName "Guess-the-number-With-feedback--player-"
+	targetPath "run"
+	sourcePaths "source/Guess-the-number-With-feedback--player-"
+}
+
+subPackage {
+	name "HTTP"
+	targetType "executable"
+	targetName "HTTP"
+	targetPath "run"
+	sourcePaths "source/HTTP"
+}
+
+subPackage {
+	name "Hailstone-sequence"
+	targetType "executable"
+	targetName "Hailstone-sequence"
+	targetPath "run"
+	sourcePaths "source/Hailstone-sequence"
+}
+
+subPackage {
+	name "Hamming-numbers"
+	targetType "executable"
+	targetName "Hamming-numbers"
+	targetPath "run"
+	sourcePaths "source/Hamming-numbers"
+}
+
+subPackage {
+	name "Happy-numbers"
+	targetType "executable"
+	targetName "Happy-numbers"
+	targetPath "run"
+	sourcePaths "source/Happy-numbers"
+}
+
+subPackage {
+	name "Harshad-or-Niven-series"
+	targetType "executable"
+	targetName "Harshad-or-Niven-series"
+	targetPath "run"
+	sourcePaths "source/Harshad-or-Niven-series"
+}
+
+subPackage {
+	name "Hash-from-two-arrays"
+	targetType "executable"
+	targetName "Hash-from-two-arrays"
+	targetPath "run"
+	sourcePaths "source/Hash-from-two-arrays"
+}
+
+subPackage {
+	name "Hash-join"
+	targetType "executable"
+	targetName "Hash-join"
+	targetPath "run"
+	sourcePaths "source/Hash-join"
+}
+
+subPackage {
+	name "Haversine-formula"
+	targetType "executable"
+	targetName "Haversine-formula"
+	targetPath "run"
+	sourcePaths "source/Haversine-formula"
+}
+
+subPackage {
+	name "Hello-world-Graphical"
+	targetType "executable"
+	targetName "Hello-world-Graphical"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Graphical"
+}
+
+subPackage {
+	name "Hello-world-Line-printer"
+	targetType "executable"
+	targetName "Hello-world-Line-printer"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Line-printer"
+}
+
+subPackage {
+	name "Hello-world-Newbie"
+	targetType "executable"
+	targetName "Hello-world-Newbie"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Newbie"
+}
+
+subPackage {
+	name "Hello-world-Newline-omission"
+	targetType "executable"
+	targetName "Hello-world-Newline-omission"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Newline-omission"
+}
+
+subPackage {
+	name "Hello-world-Standard-error"
+	targetType "executable"
+	targetName "Hello-world-Standard-error"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Standard-error"
+}
+
+subPackage {
+	name "Hello-world-Text"
+	targetType "executable"
+	targetName "Hello-world-Text"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Text"
+}
+
+subPackage {
+	name "Hello-world-Web-server"
+	targetType "executable"
+	targetName "Hello-world-Web-server"
+	targetPath "run"
+	sourcePaths "source/Hello-world-Web-server"
+}
+
+subPackage {
+	name "Here-document"
+	targetType "executable"
+	targetName "Here-document"
+	targetPath "run"
+	sourcePaths "source/Here-document"
+}
+
+subPackage {
+	name "Heronian-triangles"
+	targetType "executable"
+	targetName "Heronian-triangles"
+	targetPath "run"
+	sourcePaths "source/Heronian-triangles"
+}
+
+subPackage {
+	name "Hickerson-series-of-almost-integers"
+	targetType "executable"
+	targetName "Hickerson-series-of-almost-integers"
+	targetPath "run"
+	sourcePaths "source/Hickerson-series-of-almost-integers"
+}
+
+subPackage {
+	name "Higher-order-functions"
+	targetType "executable"
+	targetName "Higher-order-functions"
+	targetPath "run"
+	sourcePaths "source/Higher-order-functions"
+}
+
+subPackage {
+	name "History-variables"
+	targetType "executable"
+	targetName "History-variables"
+	targetPath "run"
+	sourcePaths "source/History-variables"
+}
+
+subPackage {
+	name "Hofstadter-Conway-10000-sequence"
+	targetType "executable"
+	targetName "Hofstadter-Conway-10000-sequence"
+	targetPath "run"
+	sourcePaths "source/Hofstadter-Conway-10000-sequence"
+}
+
+subPackage {
+	name "Hofstadter-Figure-Figure-sequences"
+	targetType "executable"
+	targetName "Hofstadter-Figure-Figure-sequences"
+	targetPath "run"
+	sourcePaths "source/Hofstadter-Figure-Figure-sequences"
+}
+
+subPackage {
+	name "Hofstadter-Q-sequence"
+	targetType "executable"
+	targetName "Hofstadter-Q-sequence"
+	targetPath "run"
+	sourcePaths "source/Hofstadter-Q-sequence"
+}
+
+subPackage {
+	name "Holidays-related-to-Easter"
+	targetType "executable"
+	targetName "Holidays-related-to-Easter"
+	targetPath "run"
+	sourcePaths "source/Holidays-related-to-Easter"
+}
+
+subPackage {
+	name "Horizontal-sundial-calculations"
+	targetType "executable"
+	targetName "Horizontal-sundial-calculations"
+	targetPath "run"
+	sourcePaths "source/Horizontal-sundial-calculations"
+}
+
+subPackage {
+	name "Horners-rule-for-polynomial-evaluation"
+	targetType "executable"
+	targetName "Horners-rule-for-polynomial-evaluation"
+	targetPath "run"
+	sourcePaths "source/Horners-rule-for-polynomial-evaluation"
+}
+
+subPackage {
+	name "Host-introspection"
+	targetType "executable"
+	targetName "Host-introspection"
+	targetPath "run"
+	sourcePaths "source/Host-introspection"
+}
+
+subPackage {
+	name "Hostname"
+	targetType "executable"
+	targetName "Hostname"
+	targetPath "run"
+	sourcePaths "source/Hostname"
+}
+
+subPackage {
+	name "Hough-transform"
+	targetType "executable"
+	targetName "Hough-transform"
+	targetPath "run"
+	sourcePaths "source/Hough-transform"
+}
+
+subPackage {
+	name "Huffman-coding"
+	targetType "executable"
+	targetName "Huffman-coding"
+	targetPath "run"
+	sourcePaths "source/Huffman-coding"
+}
+
+subPackage {
+	name "IBAN"
+	targetType "executable"
+	targetName "IBAN"
+	targetPath "run"
+	sourcePaths "source/IBAN"
+}
+
+subPackage {
+	name "Identity-matrix"
+	targetType "executable"
+	targetName "Identity-matrix"
+	targetPath "run"
+	sourcePaths "source/Identity-matrix"
+}
+
+subPackage {
+	name "Image-convolution"
+	targetType "executable"
+	targetName "Image-convolution"
+	targetPath "run"
+	sourcePaths "source/Image-convolution"
+}
+
+subPackage {
+	name "Image-noise"
+	targetType "executable"
+	targetName "Image-noise"
+	targetPath "run"
+	sourcePaths "source/Image-noise"
+}
+
+subPackage {
+	name "Include-a-file"
+	targetType "executable"
+	targetName "Include-a-file"
+	targetPath "run"
+	sourcePaths "source/Include-a-file"
+}
+
+subPackage {
+	name "Increment-a-numerical-string"
+	targetType "executable"
+	targetName "Increment-a-numerical-string"
+	targetPath "run"
+	sourcePaths "source/Increment-a-numerical-string"
+}
+
+subPackage {
+	name "Infinity"
+	targetType "executable"
+	targetName "Infinity"
+	targetPath "run"
+	sourcePaths "source/Infinity"
+}
+
+subPackage {
+	name "Inheritance-Multiple"
+	targetType "executable"
+	targetName "Inheritance-Multiple"
+	targetPath "run"
+	sourcePaths "source/Inheritance-Multiple"
+}
+
+subPackage {
+	name "Inheritance-Single"
+	targetType "executable"
+	targetName "Inheritance-Single"
+	targetPath "run"
+	sourcePaths "source/Inheritance-Single"
+}
+
+subPackage {
+	name "Input-loop"
+	targetType "executable"
+	targetName "Input-loop"
+	targetPath "run"
+	sourcePaths "source/Input-loop"
+}
+
+subPackage {
+	name "Integer-comparison"
+	targetType "executable"
+	targetName "Integer-comparison"
+	targetPath "run"
+	sourcePaths "source/Integer-comparison"
+}
+
+subPackage {
+	name "Integer-overflow"
+	targetType "executable"
+	targetName "Integer-overflow"
+	targetPath "run"
+	sourcePaths "source/Integer-overflow"
+}
+
+subPackage {
+	name "Integer-sequence"
+	targetType "executable"
+	targetName "Integer-sequence"
+	targetPath "run"
+	sourcePaths "source/Integer-sequence"
+}
+
+subPackage {
+	name "Introspection"
+	targetType "executable"
+	targetName "Introspection"
+	targetPath "run"
+	sourcePaths "source/Introspection"
+}
+
+subPackage {
+	name "Inverted-index"
+	targetType "executable"
+	targetName "Inverted-index"
+	targetPath "run"
+	sourcePaths "source/Inverted-index"
+}
+
+subPackage {
+	name "Iterated-digits-squaring"
+	targetType "executable"
+	targetName "Iterated-digits-squaring"
+	targetPath "run"
+	sourcePaths "source/Iterated-digits-squaring"
+}
+
+subPackage {
+	name "JSON"
+	targetType "executable"
+	targetName "JSON"
+	targetPath "run"
+	sourcePaths "source/JSON"
+}
+
+subPackage {
+	name "Jensens-Device"
+	targetType "executable"
+	targetName "Jensens-Device"
+	targetPath "run"
+	sourcePaths "source/Jensens-Device"
+}
+
+subPackage {
+	name "Josephus-problem"
+	targetType "executable"
+	targetName "Josephus-problem"
+	targetPath "run"
+	sourcePaths "source/Josephus-problem"
+}
+
+subPackage {
+	name "K-d-tree"
+	targetType "executable"
+	targetName "K-d-tree"
+	targetPath "run"
+	sourcePaths "source/K-d-tree"
+}
+
+subPackage {
+	name "K-means++-clustering"
+	targetType "executable"
+	targetName "K-means++-clustering"
+	targetPath "run"
+	sourcePaths "source/K-means++-clustering"
+}
+
+subPackage {
+	name "Kaprekar-numbers"
+	targetType "executable"
+	targetName "Kaprekar-numbers"
+	targetPath "run"
+	sourcePaths "source/Kaprekar-numbers"
+}
+
+subPackage {
+	name "Keyboard-input-Flush-the-keyboard-buffer"
+	targetType "executable"
+	targetName "Keyboard-input-Flush-the-keyboard-buffer"
+	targetPath "run"
+	sourcePaths "source/Keyboard-input-Flush-the-keyboard-buffer"
+}
+
+subPackage {
+	name "Keyboard-input-Keypress-check"
+	targetType "executable"
+	targetName "Keyboard-input-Keypress-check"
+	targetPath "run"
+	sourcePaths "source/Keyboard-input-Keypress-check"
+}
+
+subPackage {
+	name "Keyboard-input-Obtain-a-Y-or-N-response"
+	targetType "executable"
+	targetName "Keyboard-input-Obtain-a-Y-or-N-response"
+	targetPath "run"
+	sourcePaths "source/Keyboard-input-Obtain-a-Y-or-N-response"
+}
+
+subPackage {
+	name "Knapsack-problem-0-1"
+	targetType "executable"
+	targetName "Knapsack-problem-0-1"
+	targetPath "run"
+	sourcePaths "source/Knapsack-problem-0-1"
+}
+
+subPackage {
+	name "Knapsack-problem-Bounded"
+	targetType "executable"
+	targetName "Knapsack-problem-Bounded"
+	targetPath "run"
+	sourcePaths "source/Knapsack-problem-Bounded"
+}
+
+subPackage {
+	name "Knapsack-problem-Continuous"
+	targetType "executable"
+	targetName "Knapsack-problem-Continuous"
+	targetPath "run"
+	sourcePaths "source/Knapsack-problem-Continuous"
+}
+
+subPackage {
+	name "Knapsack-problem-Unbounded"
+	targetType "executable"
+	targetName "Knapsack-problem-Unbounded"
+	targetPath "run"
+	sourcePaths "source/Knapsack-problem-Unbounded"
+}
+
+subPackage {
+	name "Knights-tour"
+	targetType "executable"
+	targetName "Knights-tour"
+	targetPath "run"
+	sourcePaths "source/Knights-tour"
+}
+
+subPackage {
+	name "Knuth-shuffle"
+	targetType "executable"
+	targetName "Knuth-shuffle"
+	targetPath "run"
+	sourcePaths "source/Knuth-shuffle"
+}
+
+subPackage {
+	name "Knuths-algorithm-S"
+	targetType "executable"
+	targetName "Knuths-algorithm-S"
+	targetPath "run"
+	sourcePaths "source/Knuths-algorithm-S"
+}
+
+subPackage {
+	name "LU-decomposition"
+	targetType "executable"
+	targetName "LU-decomposition"
+	targetPath "run"
+	sourcePaths "source/LU-decomposition"
+}
+
+subPackage {
+	name "LZW-compression"
+	targetType "executable"
+	targetName "LZW-compression"
+	targetPath "run"
+	sourcePaths "source/LZW-compression"
+}
+
+subPackage {
+	name "Langtons-ant"
+	targetType "executable"
+	targetName "Langtons-ant"
+	targetPath "run"
+	sourcePaths "source/Langtons-ant"
+}
+
+subPackage {
+	name "Largest-int-from-concatenated-ints"
+	targetType "executable"
+	targetName "Largest-int-from-concatenated-ints"
+	targetPath "run"
+	sourcePaths "source/Largest-int-from-concatenated-ints"
+}
+
+subPackage {
+	name "Last-Friday-of-each-month"
+	targetType "executable"
+	targetName "Last-Friday-of-each-month"
+	targetPath "run"
+	sourcePaths "source/Last-Friday-of-each-month"
+}
+
+subPackage {
+	name "Last-letter-first-letter"
+	targetType "executable"
+	targetName "Last-letter-first-letter"
+	targetPath "run"
+	sourcePaths "source/Last-letter-first-letter"
+}
+
+subPackage {
+	name "Leap-year"
+	targetType "executable"
+	targetName "Leap-year"
+	targetPath "run"
+	sourcePaths "source/Leap-year"
+}
+
+subPackage {
+	name "Least-common-multiple"
+	targetType "executable"
+	targetName "Least-common-multiple"
+	targetPath "run"
+	sourcePaths "source/Least-common-multiple"
+}
+
+subPackage {
+	name "Left-factorials"
+	targetType "executable"
+	targetName "Left-factorials"
+	targetPath "run"
+	sourcePaths "source/Left-factorials"
+}
+
+subPackage {
+	name "Letter-frequency"
+	targetType "executable"
+	targetName "Letter-frequency"
+	targetPath "run"
+	sourcePaths "source/Letter-frequency"
+}
+
+subPackage {
+	name "Levenshtein-distance"
+	targetType "executable"
+	targetName "Levenshtein-distance"
+	targetPath "run"
+	sourcePaths "source/Levenshtein-distance"
+}
+
+subPackage {
+	name "Linear-congruential-generator"
+	targetType "executable"
+	targetName "Linear-congruential-generator"
+	targetPath "run"
+	sourcePaths "source/Linear-congruential-generator"
+}
+
+subPackage {
+	name "List-comprehensions"
+	targetType "executable"
+	targetName "List-comprehensions"
+	targetPath "run"
+	sourcePaths "source/List-comprehensions"
+}
+
+subPackage {
+	name "Literals-Integer"
+	targetType "executable"
+	targetName "Literals-Integer"
+	targetPath "run"
+	sourcePaths "source/Literals-Integer"
+}
+
+subPackage {
+	name "Literals-String"
+	targetType "executable"
+	targetName "Literals-String"
+	targetPath "run"
+	sourcePaths "source/Literals-String"
+}
+
+subPackage {
+	name "Logical-operations"
+	targetType "executable"
+	targetName "Logical-operations"
+	targetPath "run"
+	sourcePaths "source/Logical-operations"
+}
+
+subPackage {
+	name "Long-multiplication"
+	targetType "executable"
+	targetName "Long-multiplication"
+	targetPath "run"
+	sourcePaths "source/Long-multiplication"
+}
+
+subPackage {
+	name "Longest-common-subsequence"
+	targetType "executable"
+	targetName "Longest-common-subsequence"
+	targetPath "run"
+	sourcePaths "source/Longest-common-subsequence"
+}
+
+subPackage {
+	name "Longest-increasing-subsequence"
+	targetType "executable"
+	targetName "Longest-increasing-subsequence"
+	targetPath "run"
+	sourcePaths "source/Longest-increasing-subsequence"
+}
+
+subPackage {
+	name "Longest-string-challenge"
+	targetType "executable"
+	targetName "Longest-string-challenge"
+	targetPath "run"
+	sourcePaths "source/Longest-string-challenge"
+}
+
+subPackage {
+	name "Look-and-say-sequence"
+	targetType "executable"
+	targetName "Look-and-say-sequence"
+	targetPath "run"
+	sourcePaths "source/Look-and-say-sequence"
+}
+
+subPackage {
+	name "Loop-over-multiple-arrays-simultaneously"
+	targetType "executable"
+	targetName "Loop-over-multiple-arrays-simultaneously"
+	targetPath "run"
+	sourcePaths "source/Loop-over-multiple-arrays-simultaneously"
+}
+
+subPackage {
+	name "Loops-Break"
+	targetType "executable"
+	targetName "Loops-Break"
+	targetPath "run"
+	sourcePaths "source/Loops-Break"
+}
+
+subPackage {
+	name "Loops-Continue"
+	targetType "executable"
+	targetName "Loops-Continue"
+	targetPath "run"
+	sourcePaths "source/Loops-Continue"
+}
+
+subPackage {
+	name "Loops-Do-while"
+	targetType "executable"
+	targetName "Loops-Do-while"
+	targetPath "run"
+	sourcePaths "source/Loops-Do-while"
+}
+
+subPackage {
+	name "Loops-Downward-for"
+	targetType "executable"
+	targetName "Loops-Downward-for"
+	targetPath "run"
+	sourcePaths "source/Loops-Downward-for"
+}
+
+subPackage {
+	name "Loops-For"
+	targetType "executable"
+	targetName "Loops-For"
+	targetPath "run"
+	sourcePaths "source/Loops-For"
+}
+
+subPackage {
+	name "Loops-For-with-a-specified-step"
+	targetType "executable"
+	targetName "Loops-For-with-a-specified-step"
+	targetPath "run"
+	sourcePaths "source/Loops-For-with-a-specified-step"
+}
+
+subPackage {
+	name "Loops-Foreach"
+	targetType "executable"
+	targetName "Loops-Foreach"
+	targetPath "run"
+	sourcePaths "source/Loops-Foreach"
+}
+
+subPackage {
+	name "Loops-Infinite"
+	targetType "executable"
+	targetName "Loops-Infinite"
+	targetPath "run"
+	sourcePaths "source/Loops-Infinite"
+}
+
+subPackage {
+	name "Loops-N-plus-one-half"
+	targetType "executable"
+	targetName "Loops-N-plus-one-half"
+	targetPath "run"
+	sourcePaths "source/Loops-N-plus-one-half"
+}
+
+subPackage {
+	name "Loops-Nested"
+	targetType "executable"
+	targetName "Loops-Nested"
+	targetPath "run"
+	sourcePaths "source/Loops-Nested"
+}
+
+subPackage {
+	name "Loops-While"
+	targetType "executable"
+	targetName "Loops-While"
+	targetPath "run"
+	sourcePaths "source/Loops-While"
+}
+
+subPackage {
+	name "Lucas-Lehmer-test"
+	targetType "executable"
+	targetName "Lucas-Lehmer-test"
+	targetPath "run"
+	sourcePaths "source/Lucas-Lehmer-test"
+}
+
+subPackage {
+	name "Ludic-numbers"
+	targetType "executable"
+	targetName "Ludic-numbers"
+	targetPath "run"
+	sourcePaths "source/Ludic-numbers"
+}
+
+subPackage {
+	name "Luhn-test-of-credit-card-numbers"
+	targetType "executable"
+	targetName "Luhn-test-of-credit-card-numbers"
+	targetPath "run"
+	sourcePaths "source/Luhn-test-of-credit-card-numbers"
+}
+
+subPackage {
+	name "MD4"
+	targetType "executable"
+	targetName "MD4"
+	targetPath "run"
+	sourcePaths "source/MD4"
+}
+
+subPackage {
+	name "MD5"
+	targetType "executable"
+	targetName "MD5"
+	targetPath "run"
+	sourcePaths "source/MD5"
+}
+
+subPackage {
+	name "MD5-Implementation"
+	targetType "executable"
+	targetName "MD5-Implementation"
+	targetPath "run"
+	sourcePaths "source/MD5-Implementation"
+}
+
+subPackage {
+	name "Machine-code"
+	targetType "executable"
+	targetName "Machine-code"
+	targetPath "run"
+	sourcePaths "source/Machine-code"
+}
+
+subPackage {
+	name "Mad-Libs"
+	targetType "executable"
+	targetName "Mad-Libs"
+	targetPath "run"
+	sourcePaths "source/Mad-Libs"
+}
+
+subPackage {
+	name "Magic-squares-of-odd-order"
+	targetType "executable"
+	targetName "Magic-squares-of-odd-order"
+	targetPath "run"
+	sourcePaths "source/Magic-squares-of-odd-order"
+}
+
+subPackage {
+	name "Main-step-of-GOST-28147-89"
+	targetType "executable"
+	targetName "Main-step-of-GOST-28147-89"
+	targetPath "run"
+	sourcePaths "source/Main-step-of-GOST-28147-89"
+}
+
+subPackage {
+	name "Man-or-boy-test"
+	targetType "executable"
+	targetName "Man-or-boy-test"
+	targetPath "run"
+	sourcePaths "source/Man-or-boy-test"
+}
+
+subPackage {
+	name "Mandelbrot-set"
+	targetType "executable"
+	targetName "Mandelbrot-set"
+	targetPath "run"
+	sourcePaths "source/Mandelbrot-set"
+}
+
+subPackage {
+	name "Map-range"
+	targetType "executable"
+	targetName "Map-range"
+	targetPath "run"
+	sourcePaths "source/Map-range"
+}
+
+subPackage {
+	name "Matrix-arithmetic"
+	targetType "executable"
+	targetName "Matrix-arithmetic"
+	targetPath "run"
+	sourcePaths "source/Matrix-arithmetic"
+}
+
+subPackage {
+	name "Matrix-exponentiation-operator"
+	targetType "executable"
+	targetName "Matrix-exponentiation-operator"
+	targetPath "run"
+	sourcePaths "source/Matrix-exponentiation-operator"
+}
+
+subPackage {
+	name "Matrix-multiplication"
+	targetType "executable"
+	targetName "Matrix-multiplication"
+	targetPath "run"
+	sourcePaths "source/Matrix-multiplication"
+}
+
+subPackage {
+	name "Matrix-transposition"
+	targetType "executable"
+	targetName "Matrix-transposition"
+	targetPath "run"
+	sourcePaths "source/Matrix-transposition"
+}
+
+subPackage {
+	name "Maximum-triangle-path-sum"
+	targetType "executable"
+	targetName "Maximum-triangle-path-sum"
+	targetPath "run"
+	sourcePaths "source/Maximum-triangle-path-sum"
+}
+
+subPackage {
+	name "Maze-generation"
+	targetType "executable"
+	targetName "Maze-generation"
+	targetPath "run"
+	sourcePaths "source/Maze-generation"
+}
+
+subPackage {
+	name "Maze-solving"
+	targetType "executable"
+	targetName "Maze-solving"
+	targetPath "run"
+	sourcePaths "source/Maze-solving"
+}
+
+subPackage {
+	name "Median-filter"
+	targetType "executable"
+	targetName "Median-filter"
+	targetPath "run"
+	sourcePaths "source/Median-filter"
+}
+
+subPackage {
+	name "Memory-allocation"
+	targetType "executable"
+	targetName "Memory-allocation"
+	targetPath "run"
+	sourcePaths "source/Memory-allocation"
+}
+
+subPackage {
+	name "Memory-layout-of-a-data-structure"
+	targetType "executable"
+	targetName "Memory-layout-of-a-data-structure"
+	targetPath "run"
+	sourcePaths "source/Memory-layout-of-a-data-structure"
+}
+
+subPackage {
+	name "Menu"
+	targetType "executable"
+	targetName "Menu"
+	targetPath "run"
+	sourcePaths "source/Menu"
+}
+
+subPackage {
+	name "Metaprogramming"
+	targetType "executable"
+	targetName "Metaprogramming"
+	targetPath "run"
+	sourcePaths "source/Metaprogramming"
+}
+
+subPackage {
+	name "Metered-concurrency"
+	targetType "executable"
+	targetName "Metered-concurrency"
+	targetPath "run"
+	sourcePaths "source/Metered-concurrency"
+}
+
+subPackage {
+	name "Middle-three-digits"
+	targetType "executable"
+	targetName "Middle-three-digits"
+	targetPath "run"
+	sourcePaths "source/Middle-three-digits"
+}
+
+subPackage {
+	name "Miller-Rabin-primality-test"
+	targetType "executable"
+	targetName "Miller-Rabin-primality-test"
+	targetPath "run"
+	sourcePaths "source/Miller-Rabin-primality-test"
+}
+
+subPackage {
+	name "Modular-exponentiation"
+	targetType "executable"
+	targetName "Modular-exponentiation"
+	targetPath "run"
+	sourcePaths "source/Modular-exponentiation"
+}
+
+subPackage {
+	name "Modular-inverse"
+	targetType "executable"
+	targetName "Modular-inverse"
+	targetPath "run"
+	sourcePaths "source/Modular-inverse"
+}
+
+subPackage {
+	name "Monte-Carlo-methods"
+	targetType "executable"
+	targetName "Monte-Carlo-methods"
+	targetPath "run"
+	sourcePaths "source/Monte-Carlo-methods"
+}
+
+subPackage {
+	name "Monty-Hall-problem"
+	targetType "executable"
+	targetName "Monty-Hall-problem"
+	targetPath "run"
+	sourcePaths "source/Monty-Hall-problem"
+}
+
+subPackage {
+	name "Move-to-front-algorithm"
+	targetType "executable"
+	targetName "Move-to-front-algorithm"
+	targetPath "run"
+	sourcePaths "source/Move-to-front-algorithm"
+}
+
+subPackage {
+	name "Multifactorial"
+	targetType "executable"
+	targetName "Multifactorial"
+	targetPath "run"
+	sourcePaths "source/Multifactorial"
+}
+
+subPackage {
+	name "Multiple-distinct-objects"
+	targetType "executable"
+	targetName "Multiple-distinct-objects"
+	targetPath "run"
+	sourcePaths "source/Multiple-distinct-objects"
+}
+
+subPackage {
+	name "Multiplication-tables"
+	targetType "executable"
+	targetName "Multiplication-tables"
+	targetPath "run"
+	sourcePaths "source/Multiplication-tables"
+}
+
+subPackage {
+	name "Multisplit"
+	targetType "executable"
+	targetName "Multisplit"
+	targetPath "run"
+	sourcePaths "source/Multisplit"
+}
+
+subPackage {
+	name "Munching-squares"
+	targetType "executable"
+	targetName "Munching-squares"
+	targetPath "run"
+	sourcePaths "source/Munching-squares"
+}
+
+subPackage {
+	name "Mutual-recursion"
+	targetType "executable"
+	targetName "Mutual-recursion"
+	targetPath "run"
+	sourcePaths "source/Mutual-recursion"
+}
+
+subPackage {
+	name "N-queens-problem"
+	targetType "executable"
+	targetName "N-queens-problem"
+	targetPath "run"
+	sourcePaths "source/N-queens-problem"
+}
+
+subPackage {
+	name "Narcissistic-decimal-number"
+	targetType "executable"
+	targetName "Narcissistic-decimal-number"
+	targetPath "run"
+	sourcePaths "source/Narcissistic-decimal-number"
+}
+
+subPackage {
+	name "Natural-sorting"
+	targetType "executable"
+	targetName "Natural-sorting"
+	targetPath "run"
+	sourcePaths "source/Natural-sorting"
+}
+
+subPackage {
+	name "Nautical-bell"
+	targetType "executable"
+	targetName "Nautical-bell"
+	targetPath "run"
+	sourcePaths "source/Nautical-bell"
+}
+
+subPackage {
+	name "Non-continuous-subsequences"
+	targetType "executable"
+	targetName "Non-continuous-subsequences"
+	targetPath "run"
+	sourcePaths "source/Non-continuous-subsequences"
+}
+
+subPackage {
+	name "Non-decimal-radices-Convert"
+	targetType "executable"
+	targetName "Non-decimal-radices-Convert"
+	targetPath "run"
+	sourcePaths "source/Non-decimal-radices-Convert"
+}
+
+subPackage {
+	name "Non-decimal-radices-Input"
+	targetType "executable"
+	targetName "Non-decimal-radices-Input"
+	targetPath "run"
+	sourcePaths "source/Non-decimal-radices-Input"
+}
+
+subPackage {
+	name "Non-decimal-radices-Output"
+	targetType "executable"
+	targetName "Non-decimal-radices-Output"
+	targetPath "run"
+	sourcePaths "source/Non-decimal-radices-Output"
+}
+
+subPackage {
+	name "Nth"
+	targetType "executable"
+	targetName "Nth"
+	targetPath "run"
+	sourcePaths "source/Nth"
+}
+
+subPackage {
+	name "Nth-root"
+	targetType "executable"
+	targetName "Nth-root"
+	targetPath "run"
+	sourcePaths "source/Nth-root"
+}
+
+subPackage {
+	name "Null-object"
+	targetType "executable"
+	targetName "Null-object"
+	targetPath "run"
+	sourcePaths "source/Null-object"
+}
+
+subPackage {
+	name "Number-names"
+	targetType "executable"
+	targetName "Number-names"
+	targetPath "run"
+	sourcePaths "source/Number-names"
+}
+
+subPackage {
+	name "Number-reversal-game"
+	targetType "executable"
+	targetName "Number-reversal-game"
+	targetPath "run"
+	sourcePaths "source/Number-reversal-game"
+}
+
+subPackage {
+	name "Numeric-error-propagation"
+	targetType "executable"
+	targetName "Numeric-error-propagation"
+	targetPath "run"
+	sourcePaths "source/Numeric-error-propagation"
+}
+
+subPackage {
+	name "Numerical-integration"
+	targetType "executable"
+	targetName "Numerical-integration"
+	targetPath "run"
+	sourcePaths "source/Numerical-integration"
+}
+
+subPackage {
+	name "Numerical-integration-Gauss-Legendre-Quadrature"
+	targetType "executable"
+	targetName "Numerical-integration-Gauss-Legendre-Quadrature"
+	targetPath "run"
+	sourcePaths "source/Numerical-integration-Gauss-Legendre-Quadrature"
+}
+
+subPackage {
+	name "Object-serialization"
+	targetType "executable"
+	targetName "Object-serialization"
+	targetPath "run"
+	sourcePaths "source/Object-serialization"
+}
+
+subPackage {
+	name "Odd-word-problem"
+	targetType "executable"
+	targetName "Odd-word-problem"
+	targetPath "run"
+	sourcePaths "source/Odd-word-problem"
+}
+
+subPackage {
+	name "Old-lady-swallowed-a-fly"
+	targetType "executable"
+	targetName "Old-lady-swallowed-a-fly"
+	targetPath "run"
+	sourcePaths "source/Old-lady-swallowed-a-fly"
+}
+
+subPackage {
+	name "One-dimensional-cellular-automata"
+	targetType "executable"
+	targetName "One-dimensional-cellular-automata"
+	targetPath "run"
+	sourcePaths "source/One-dimensional-cellular-automata"
+}
+
+subPackage {
+	name "One-of-n-lines-in-a-file"
+	targetType "executable"
+	targetName "One-of-n-lines-in-a-file"
+	targetPath "run"
+	sourcePaths "source/One-of-n-lines-in-a-file"
+}
+
+subPackage {
+	name "OpenGL"
+	targetType "executable"
+	targetName "OpenGL"
+	targetPath "run"
+	sourcePaths "source/OpenGL"
+}
+
+subPackage {
+	name "Optional-parameters"
+	targetType "executable"
+	targetName "Optional-parameters"
+	targetPath "run"
+	sourcePaths "source/Optional-parameters"
+}
+
+subPackage {
+	name "Order-disjoint-list-items"
+	targetType "executable"
+	targetName "Order-disjoint-list-items"
+	targetPath "run"
+	sourcePaths "source/Order-disjoint-list-items"
+}
+
+subPackage {
+	name "Order-two-numerical-lists"
+	targetType "executable"
+	targetName "Order-two-numerical-lists"
+	targetPath "run"
+	sourcePaths "source/Order-two-numerical-lists"
+}
+
+subPackage {
+	name "Ordered-Partitions"
+	targetType "executable"
+	targetName "Ordered-Partitions"
+	targetPath "run"
+	sourcePaths "source/Ordered-Partitions"
+}
+
+subPackage {
+	name "Ordered-words"
+	targetType "executable"
+	targetName "Ordered-words"
+	targetPath "run"
+	sourcePaths "source/Ordered-words"
+}
+
+subPackage {
+	name "Palindrome-detection"
+	targetType "executable"
+	targetName "Palindrome-detection"
+	targetPath "run"
+	sourcePaths "source/Palindrome-detection"
+}
+
+subPackage {
+	name "Pangram-checker"
+	targetType "executable"
+	targetName "Pangram-checker"
+	targetPath "run"
+	sourcePaths "source/Pangram-checker"
+}
+
+subPackage {
+	name "Paraffins"
+	targetType "executable"
+	targetName "Paraffins"
+	targetPath "run"
+	sourcePaths "source/Paraffins"
+}
+
+subPackage {
+	name "Parallel-calculations"
+	targetType "executable"
+	targetName "Parallel-calculations"
+	targetPath "run"
+	sourcePaths "source/Parallel-calculations"
+}
+
+subPackage {
+	name "Parametric-polymorphism"
+	targetType "executable"
+	targetName "Parametric-polymorphism"
+	targetPath "run"
+	sourcePaths "source/Parametric-polymorphism"
+}
+
+subPackage {
+	name "Parsing-RPN-calculator-algorithm"
+	targetType "executable"
+	targetName "Parsing-RPN-calculator-algorithm"
+	targetPath "run"
+	sourcePaths "source/Parsing-RPN-calculator-algorithm"
+}
+
+subPackage {
+	name "Parsing-RPN-to-infix-conversion"
+	targetType "executable"
+	targetName "Parsing-RPN-to-infix-conversion"
+	targetPath "run"
+	sourcePaths "source/Parsing-RPN-to-infix-conversion"
+}
+
+subPackage {
+	name "Partial-function-application"
+	targetType "executable"
+	targetName "Partial-function-application"
+	targetPath "run"
+	sourcePaths "source/Partial-function-application"
+}
+
+subPackage {
+	name "Pascals-triangle"
+	targetType "executable"
+	targetName "Pascals-triangle"
+	targetPath "run"
+	sourcePaths "source/Pascals-triangle"
+}
+
+subPackage {
+	name "Pascals-triangle-Puzzle"
+	targetType "executable"
+	targetName "Pascals-triangle-Puzzle"
+	targetPath "run"
+	sourcePaths "source/Pascals-triangle-Puzzle"
+}
+
+subPackage {
+	name "Penneys-game"
+	targetType "executable"
+	targetName "Penneys-game"
+	targetPath "run"
+	sourcePaths "source/Penneys-game"
+}
+
+subPackage {
+	name "Percentage-difference-between-images"
+	targetType "executable"
+	targetName "Percentage-difference-between-images"
+	targetPath "run"
+	sourcePaths "source/Percentage-difference-between-images"
+}
+
+subPackage {
+	name "Percolation-Bond-percolation"
+	targetType "executable"
+	targetName "Percolation-Bond-percolation"
+	targetPath "run"
+	sourcePaths "source/Percolation-Bond-percolation"
+}
+
+subPackage {
+	name "Percolation-Mean-cluster-density"
+	targetType "executable"
+	targetName "Percolation-Mean-cluster-density"
+	targetPath "run"
+	sourcePaths "source/Percolation-Mean-cluster-density"
+}
+
+subPackage {
+	name "Percolation-Mean-run-density"
+	targetType "executable"
+	targetName "Percolation-Mean-run-density"
+	targetPath "run"
+	sourcePaths "source/Percolation-Mean-run-density"
+}
+
+subPackage {
+	name "Percolation-Site-percolation"
+	targetType "executable"
+	targetName "Percolation-Site-percolation"
+	targetPath "run"
+	sourcePaths "source/Percolation-Site-percolation"
+}
+
+subPackage {
+	name "Perfect-numbers"
+	targetType "executable"
+	targetName "Perfect-numbers"
+	targetPath "run"
+	sourcePaths "source/Perfect-numbers"
+}
+
+subPackage {
+	name "Permutation-test"
+	targetType "executable"
+	targetName "Permutation-test"
+	targetPath "run"
+	sourcePaths "source/Permutation-test"
+}
+
+subPackage {
+	name "Permutations"
+	targetType "executable"
+	targetName "Permutations"
+	targetPath "run"
+	sourcePaths "source/Permutations"
+}
+
+subPackage {
+	name "Permutations-Derangements"
+	targetType "executable"
+	targetName "Permutations-Derangements"
+	targetPath "run"
+	sourcePaths "source/Permutations-Derangements"
+}
+
+subPackage {
+	name "Permutations-Rank-of-a-permutation"
+	targetType "executable"
+	targetName "Permutations-Rank-of-a-permutation"
+	targetPath "run"
+	sourcePaths "source/Permutations-Rank-of-a-permutation"
+}
+
+subPackage {
+	name "Permutations-by-swapping"
+	targetType "executable"
+	targetName "Permutations-by-swapping"
+	targetPath "run"
+	sourcePaths "source/Permutations-by-swapping"
+}
+
+subPackage {
+	name "Pernicious-numbers"
+	targetType "executable"
+	targetName "Pernicious-numbers"
+	targetPath "run"
+	sourcePaths "source/Pernicious-numbers"
+}
+
+subPackage {
+	name "Phrase-reversals"
+	targetType "executable"
+	targetName "Phrase-reversals"
+	targetPath "run"
+	sourcePaths "source/Phrase-reversals"
+}
+
+subPackage {
+	name "Pi"
+	targetType "executable"
+	targetName "Pi"
+	targetPath "run"
+	sourcePaths "source/Pi"
+}
+
+subPackage {
+	name "Pick-random-element"
+	targetType "executable"
+	targetName "Pick-random-element"
+	targetPath "run"
+	sourcePaths "source/Pick-random-element"
+}
+
+subPackage {
+	name "Pig-the-dice-game"
+	targetType "executable"
+	targetName "Pig-the-dice-game"
+	targetPath "run"
+	sourcePaths "source/Pig-the-dice-game"
+}
+
+subPackage {
+	name "Pig-the-dice-game-Player"
+	targetType "executable"
+	targetName "Pig-the-dice-game-Player"
+	targetPath "run"
+	sourcePaths "source/Pig-the-dice-game-Player"
+}
+
+subPackage {
+	name "Playing-cards"
+	targetType "executable"
+	targetName "Playing-cards"
+	targetPath "run"
+	sourcePaths "source/Playing-cards"
+}
+
+subPackage {
+	name "Pointers-and-references"
+	targetType "executable"
+	targetName "Pointers-and-references"
+	targetPath "run"
+	sourcePaths "source/Pointers-and-references"
+}
+
+subPackage {
+	name "Polymorphic-copy"
+	targetType "executable"
+	targetName "Polymorphic-copy"
+	targetPath "run"
+	sourcePaths "source/Polymorphic-copy"
+}
+
+subPackage {
+	name "Polymorphism"
+	targetType "executable"
+	targetName "Polymorphism"
+	targetPath "run"
+	sourcePaths "source/Polymorphism"
+}
+
+subPackage {
+	name "Polynomial-long-division"
+	targetType "executable"
+	targetName "Polynomial-long-division"
+	targetPath "run"
+	sourcePaths "source/Polynomial-long-division"
+}
+
+subPackage {
+	name "Power-set"
+	targetType "executable"
+	targetName "Power-set"
+	targetPath "run"
+	sourcePaths "source/Power-set"
+}
+
+subPackage {
+	name "Price-fraction"
+	targetType "executable"
+	targetName "Price-fraction"
+	targetPath "run"
+	sourcePaths "source/Price-fraction"
+}
+
+subPackage {
+	name "Primality-by-trial-division"
+	targetType "executable"
+	targetName "Primality-by-trial-division"
+	targetPath "run"
+	sourcePaths "source/Primality-by-trial-division"
+}
+
+subPackage {
+	name "Prime-decomposition"
+	targetType "executable"
+	targetName "Prime-decomposition"
+	targetPath "run"
+	sourcePaths "source/Prime-decomposition"
+}
+
+subPackage {
+	name "Priority-queue"
+	targetType "executable"
+	targetName "Priority-queue"
+	targetPath "run"
+	sourcePaths "source/Priority-queue"
+}
+
+subPackage {
+	name "Probabilistic-choice"
+	targetType "executable"
+	targetName "Probabilistic-choice"
+	targetPath "run"
+	sourcePaths "source/Probabilistic-choice"
+}
+
+subPackage {
+	name "Problem-of-Apollonius"
+	targetType "executable"
+	targetName "Problem-of-Apollonius"
+	targetPath "run"
+	sourcePaths "source/Problem-of-Apollonius"
+}
+
+subPackage {
+	name "Program-name"
+	targetType "executable"
+	targetName "Program-name"
+	targetPath "run"
+	sourcePaths "source/Program-name"
+}
+
+subPackage {
+	name "Program-termination"
+	targetType "executable"
+	targetName "Program-termination"
+	targetPath "run"
+	sourcePaths "source/Program-termination"
+}
+
+subPackage {
+	name "Pythagorean-triples"
+	targetType "executable"
+	targetName "Pythagorean-triples"
+	targetPath "run"
+	sourcePaths "source/Pythagorean-triples"
+}
+
+subPackage {
+	name "QR-decomposition"
+	targetType "executable"
+	targetName "QR-decomposition"
+	targetPath "run"
+	sourcePaths "source/QR-decomposition"
+}
+
+subPackage {
+	name "Quaternion-type"
+	targetType "executable"
+	targetName "Quaternion-type"
+	targetPath "run"
+	sourcePaths "source/Quaternion-type"
+}
+
+subPackage {
+	name "Queue-Usage"
+	targetType "executable"
+	targetName "Queue-Usage"
+	targetPath "run"
+	sourcePaths "source/Queue-Usage"
+}
+
+subPackage {
+	name "Quickselect-algorithm"
+	targetType "executable"
+	targetName "Quickselect-algorithm"
+	targetPath "run"
+	sourcePaths "source/Quickselect-algorithm"
+}
+
+subPackage {
+	name "Quine"
+	targetType "executable"
+	targetName "Quine"
+	targetPath "run"
+	sourcePaths "source/Quine"
+}
+
+subPackage {
+	name "RIPEMD-160"
+	targetType "executable"
+	targetName "RIPEMD-160"
+	targetPath "run"
+	sourcePaths "source/RIPEMD-160"
+}
+
+subPackage {
+	name "RSA-code"
+	targetType "executable"
+	targetName "RSA-code"
+	targetPath "run"
+	sourcePaths "source/RSA-code"
+}
+
+subPackage {
+	name "Random-numbers"
+	targetType "executable"
+	targetName "Random-numbers"
+	targetPath "run"
+	sourcePaths "source/Random-numbers"
+}
+
+subPackage {
+	name "Range-expansion"
+	targetType "executable"
+	targetName "Range-expansion"
+	targetPath "run"
+	sourcePaths "source/Range-expansion"
+}
+
+subPackage {
+	name "Range-extraction"
+	targetType "executable"
+	targetName "Range-extraction"
+	targetPath "run"
+	sourcePaths "source/Range-extraction"
+}
+
+subPackage {
+	name "Ray-casting-algorithm"
+	targetType "executable"
+	targetName "Ray-casting-algorithm"
+	targetPath "run"
+	sourcePaths "source/Ray-casting-algorithm"
+}
+
+subPackage {
+	name "Read-a-configuration-file"
+	targetType "executable"
+	targetName "Read-a-configuration-file"
+	targetPath "run"
+	sourcePaths "source/Read-a-configuration-file"
+}
+
+subPackage {
+	name "Read-a-file-line-by-line"
+	targetType "executable"
+	targetName "Read-a-file-line-by-line"
+	targetPath "run"
+	sourcePaths "source/Read-a-file-line-by-line"
+}
+
+subPackage {
+	name "Read-a-specific-line-from-a-file"
+	targetType "executable"
+	targetName "Read-a-specific-line-from-a-file"
+	targetPath "run"
+	sourcePaths "source/Read-a-specific-line-from-a-file"
+}
+
+subPackage {
+	name "Read-entire-file"
+	targetType "executable"
+	targetName "Read-entire-file"
+	targetPath "run"
+	sourcePaths "source/Read-entire-file"
+}
+
+subPackage {
+	name "Real-constants-and-functions"
+	targetType "executable"
+	targetName "Real-constants-and-functions"
+	targetPath "run"
+	sourcePaths "source/Real-constants-and-functions"
+}
+
+subPackage {
+	name "Reduced-row-echelon-form"
+	targetType "executable"
+	targetName "Reduced-row-echelon-form"
+	targetPath "run"
+	sourcePaths "source/Reduced-row-echelon-form"
+}
+
+subPackage {
+	name "Regular-expressions"
+	targetType "executable"
+	targetName "Regular-expressions"
+	targetPath "run"
+	sourcePaths "source/Regular-expressions"
+}
+
+subPackage {
+	name "Remove-duplicate-elements"
+	targetType "executable"
+	targetName "Remove-duplicate-elements"
+	targetPath "run"
+	sourcePaths "source/Remove-duplicate-elements"
+}
+
+subPackage {
+	name "Remove-lines-from-a-file"
+	targetType "executable"
+	targetName "Remove-lines-from-a-file"
+	targetPath "run"
+	sourcePaths "source/Remove-lines-from-a-file"
+}
+
+subPackage {
+	name "Rename-a-file"
+	targetType "executable"
+	targetName "Rename-a-file"
+	targetPath "run"
+	sourcePaths "source/Rename-a-file"
+}
+
+subPackage {
+	name "Rendezvous"
+	targetType "executable"
+	targetName "Rendezvous"
+	targetPath "run"
+	sourcePaths "source/Rendezvous"
+}
+
+subPackage {
+	name "Rep-string"
+	targetType "executable"
+	targetName "Rep-string"
+	targetPath "run"
+	sourcePaths "source/Rep-string"
+}
+
+subPackage {
+	name "Repeat-a-string"
+	targetType "executable"
+	targetName "Repeat-a-string"
+	targetPath "run"
+	sourcePaths "source/Repeat-a-string"
+}
+
+subPackage {
+	name "Resistor-mesh"
+	targetType "executable"
+	targetName "Resistor-mesh"
+	targetPath "run"
+	sourcePaths "source/Resistor-mesh"
+}
+
+subPackage {
+	name "Respond-to-an-unknown-method-call"
+	targetType "executable"
+	targetName "Respond-to-an-unknown-method-call"
+	targetPath "run"
+	sourcePaths "source/Respond-to-an-unknown-method-call"
+}
+
+subPackage {
+	name "Return-multiple-values"
+	targetType "executable"
+	targetName "Return-multiple-values"
+	targetPath "run"
+	sourcePaths "source/Return-multiple-values"
+}
+
+subPackage {
+	name "Reverse-a-string"
+	targetType "executable"
+	targetName "Reverse-a-string"
+	targetPath "run"
+	sourcePaths "source/Reverse-a-string"
+}
+
+subPackage {
+	name "Reverse-words-in-a-string"
+	targetType "executable"
+	targetName "Reverse-words-in-a-string"
+	targetPath "run"
+	sourcePaths "source/Reverse-words-in-a-string"
+}
+
+subPackage {
+	name "Rock-paper-scissors"
+	targetType "executable"
+	targetName "Rock-paper-scissors"
+	targetPath "run"
+	sourcePaths "source/Rock-paper-scissors"
+}
+
+subPackage {
+	name "Roman-numerals-Decode"
+	targetType "executable"
+	targetName "Roman-numerals-Decode"
+	targetPath "run"
+	sourcePaths "source/Roman-numerals-Decode"
+}
+
+subPackage {
+	name "Roman-numerals-Encode"
+	targetType "executable"
+	targetName "Roman-numerals-Encode"
+	targetPath "run"
+	sourcePaths "source/Roman-numerals-Encode"
+}
+
+subPackage {
+	name "Roots-of-a-function"
+	targetType "executable"
+	targetName "Roots-of-a-function"
+	targetPath "run"
+	sourcePaths "source/Roots-of-a-function"
+}
+
+subPackage {
+	name "Roots-of-a-quadratic-function"
+	targetType "executable"
+	targetName "Roots-of-a-quadratic-function"
+	targetPath "run"
+	sourcePaths "source/Roots-of-a-quadratic-function"
+}
+
+subPackage {
+	name "Roots-of-unity"
+	targetType "executable"
+	targetName "Roots-of-unity"
+	targetPath "run"
+	sourcePaths "source/Roots-of-unity"
+}
+
+subPackage {
+	name "Rosetta-Code-Count-examples"
+	targetType "executable"
+	targetName "Rosetta-Code-Count-examples"
+	targetPath "run"
+	sourcePaths "source/Rosetta-Code-Count-examples"
+}
+
+subPackage {
+	name "Rosetta-Code-Fix-code-tags"
+	targetType "executable"
+	targetName "Rosetta-Code-Fix-code-tags"
+	targetPath "run"
+	sourcePaths "source/Rosetta-Code-Fix-code-tags"
+}
+
+subPackage {
+	name "Rosetta-Code-Rank-languages-by-popularity"
+	targetType "executable"
+	targetName "Rosetta-Code-Rank-languages-by-popularity"
+	targetPath "run"
+	sourcePaths "source/Rosetta-Code-Rank-languages-by-popularity"
+}
+
+subPackage {
+	name "Rot-13"
+	targetType "executable"
+	targetName "Rot-13"
+	targetPath "run"
+	sourcePaths "source/Rot-13"
+}
+
+subPackage {
+	name "Run-length-encoding"
+	targetType "executable"
+	targetName "Run-length-encoding"
+	targetPath "run"
+	sourcePaths "source/Run-length-encoding"
+}
+
+subPackage {
+	name "Runge-Kutta-method"
+	targetType "executable"
+	targetName "Runge-Kutta-method"
+	targetPath "run"
+	sourcePaths "source/Runge-Kutta-method"
+}
+
+subPackage {
+	name "S-Expressions"
+	targetType "executable"
+	targetName "S-Expressions"
+	targetPath "run"
+	sourcePaths "source/S-Expressions"
+}
+
+subPackage {
+	name "SEDOLs"
+	targetType "executable"
+	targetName "SEDOLs"
+	targetPath "run"
+	sourcePaths "source/SEDOLs"
+}
+
+subPackage {
+	name "SHA-1"
+	targetType "executable"
+	targetName "SHA-1"
+	targetPath "run"
+	sourcePaths "source/SHA-1"
+}
+
+subPackage {
+	name "SHA-256"
+	targetType "executable"
+	targetName "SHA-256"
+	targetPath "run"
+	sourcePaths "source/SHA-256"
+}
+
+subPackage {
+	name "Same-Fringe"
+	targetType "executable"
+	targetName "Same-Fringe"
+	targetPath "run"
+	sourcePaths "source/Same-Fringe"
+}
+
+subPackage {
+	name "Search-a-list"
+	targetType "executable"
+	targetName "Search-a-list"
+	targetPath "run"
+	sourcePaths "source/Search-a-list"
+}
+
+subPackage {
+	name "Secure-temporary-file"
+	targetType "executable"
+	targetName "Secure-temporary-file"
+	targetPath "run"
+	sourcePaths "source/Secure-temporary-file"
+}
+
+subPackage {
+	name "Self-describing-numbers"
+	targetType "executable"
+	targetName "Self-describing-numbers"
+	targetPath "run"
+	sourcePaths "source/Self-describing-numbers"
+}
+
+subPackage {
+	name "Self-referential-sequence"
+	targetType "executable"
+	targetName "Self-referential-sequence"
+	targetPath "run"
+	sourcePaths "source/Self-referential-sequence"
+}
+
+subPackage {
+	name "Semiprime"
+	targetType "executable"
+	targetName "Semiprime"
+	targetPath "run"
+	sourcePaths "source/Semiprime"
+}
+
+subPackage {
+	name "Semordnilap"
+	targetType "executable"
+	targetName "Semordnilap"
+	targetPath "run"
+	sourcePaths "source/Semordnilap"
+}
+
+subPackage {
+	name "Send-email"
+	targetType "executable"
+	targetName "Send-email"
+	targetPath "run"
+	sourcePaths "source/Send-email"
+}
+
+subPackage {
+	name "Sequence-of-non-squares"
+	targetType "executable"
+	targetName "Sequence-of-non-squares"
+	targetPath "run"
+	sourcePaths "source/Sequence-of-non-squares"
+}
+
+subPackage {
+	name "Sequence-of-primes-by-Trial-Division"
+	targetType "executable"
+	targetName "Sequence-of-primes-by-Trial-Division"
+	targetPath "run"
+	sourcePaths "source/Sequence-of-primes-by-Trial-Division"
+}
+
+subPackage {
+	name "Set"
+	targetType "executable"
+	targetName "Set"
+	targetPath "run"
+	sourcePaths "source/Set"
+}
+
+subPackage {
+	name "Set-consolidation"
+	targetType "executable"
+	targetName "Set-consolidation"
+	targetPath "run"
+	sourcePaths "source/Set-consolidation"
+}
+
+subPackage {
+	name "Set-of-real-numbers"
+	targetType "executable"
+	targetName "Set-of-real-numbers"
+	targetPath "run"
+	sourcePaths "source/Set-of-real-numbers"
+}
+
+subPackage {
+	name "Set-puzzle"
+	targetType "executable"
+	targetName "Set-puzzle"
+	targetPath "run"
+	sourcePaths "source/Set-puzzle"
+}
+
+subPackage {
+	name "Seven-sided-dice-from-five-sided-dice"
+	targetType "executable"
+	targetName "Seven-sided-dice-from-five-sided-dice"
+	targetPath "run"
+	sourcePaths "source/Seven-sided-dice-from-five-sided-dice"
+}
+
+subPackage {
+	name "Shell-one-liner"
+	targetType "executable"
+	targetName "Shell-one-liner"
+	targetPath "run"
+	sourcePaths "source/Shell-one-liner"
+}
+
+subPackage {
+	name "Short-circuit-evaluation"
+	targetType "executable"
+	targetName "Short-circuit-evaluation"
+	targetPath "run"
+	sourcePaths "source/Short-circuit-evaluation"
+}
+
+subPackage {
+	name "Sierpinski-carpet"
+	targetType "executable"
+	targetName "Sierpinski-carpet"
+	targetPath "run"
+	sourcePaths "source/Sierpinski-carpet"
+}
+
+subPackage {
+	name "Sierpinski-triangle"
+	targetType "executable"
+	targetName "Sierpinski-triangle"
+	targetPath "run"
+	sourcePaths "source/Sierpinski-triangle"
+}
+
+subPackage {
+	name "Sierpinski-triangle-Graphical"
+	targetType "executable"
+	targetName "Sierpinski-triangle-Graphical"
+	targetPath "run"
+	sourcePaths "source/Sierpinski-triangle-Graphical"
+}
+
+subPackage {
+	name "Sieve-of-Eratosthenes"
+	targetType "executable"
+	targetName "Sieve-of-Eratosthenes"
+	targetPath "run"
+	sourcePaths "source/Sieve-of-Eratosthenes"
+}
+
+subPackage {
+	name "Simple-database"
+	targetType "executable"
+	targetName "Simple-database"
+	targetPath "run"
+	sourcePaths "source/Simple-database"
+}
+
+subPackage {
+	name "Simple-windowed-application"
+	targetType "executable"
+	targetName "Simple-windowed-application"
+	targetPath "run"
+	sourcePaths "source/Simple-windowed-application"
+}
+
+subPackage {
+	name "Singleton"
+	targetType "executable"
+	targetName "Singleton"
+	targetPath "run"
+	sourcePaths "source/Singleton"
+}
+
+subPackage {
+	name "Singly-linked-list-Element-definition"
+	targetType "executable"
+	targetName "Singly-linked-list-Element-definition"
+	targetPath "run"
+	sourcePaths "source/Singly-linked-list-Element-definition"
+}
+
+subPackage {
+	name "Singly-linked-list-Element-insertion"
+	targetType "executable"
+	targetName "Singly-linked-list-Element-insertion"
+	targetPath "run"
+	sourcePaths "source/Singly-linked-list-Element-insertion"
+}
+
+subPackage {
+	name "Singly-linked-list-Traversal"
+	targetType "executable"
+	targetName "Singly-linked-list-Traversal"
+	targetPath "run"
+	sourcePaths "source/Singly-linked-list-Traversal"
+}
+
+subPackage {
+	name "Sleep"
+	targetType "executable"
+	targetName "Sleep"
+	targetPath "run"
+	sourcePaths "source/Sleep"
+}
+
+subPackage {
+	name "Sockets"
+	targetType "executable"
+	targetName "Sockets"
+	targetPath "run"
+	sourcePaths "source/Sockets"
+}
+
+subPackage {
+	name "Sokoban"
+	targetType "executable"
+	targetName "Sokoban"
+	targetPath "run"
+	sourcePaths "source/Sokoban"
+}
+
+subPackage {
+	name "Solve-a-Hidato-puzzle"
+	targetType "executable"
+	targetName "Solve-a-Hidato-puzzle"
+	targetPath "run"
+	sourcePaths "source/Solve-a-Hidato-puzzle"
+}
+
+subPackage {
+	name "Solve-a-Holy-Knights-tour"
+	targetType "executable"
+	targetName "Solve-a-Holy-Knights-tour"
+	targetPath "run"
+	sourcePaths "source/Solve-a-Holy-Knights-tour"
+}
+
+subPackage {
+	name "Solve-a-Hopido-puzzle"
+	targetType "executable"
+	targetName "Solve-a-Hopido-puzzle"
+	targetPath "run"
+	sourcePaths "source/Solve-a-Hopido-puzzle"
+}
+
+subPackage {
+	name "Solve-a-Numbrix-puzzle"
+	targetType "executable"
+	targetName "Solve-a-Numbrix-puzzle"
+	targetPath "run"
+	sourcePaths "source/Solve-a-Numbrix-puzzle"
+}
+
+subPackage {
+	name "Solve-the-no-connection-puzzle"
+	targetType "executable"
+	targetName "Solve-the-no-connection-puzzle"
+	targetPath "run"
+	sourcePaths "source/Solve-the-no-connection-puzzle"
+}
+
+subPackage {
+	name "Sort-an-array-of-composite-structures"
+	targetType "executable"
+	targetName "Sort-an-array-of-composite-structures"
+	targetPath "run"
+	sourcePaths "source/Sort-an-array-of-composite-structures"
+}
+
+subPackage {
+	name "Sort-an-integer-array"
+	targetType "executable"
+	targetName "Sort-an-integer-array"
+	targetPath "run"
+	sourcePaths "source/Sort-an-integer-array"
+}
+
+subPackage {
+	name "Sort-disjoint-sublist"
+	targetType "executable"
+	targetName "Sort-disjoint-sublist"
+	targetPath "run"
+	sourcePaths "source/Sort-disjoint-sublist"
+}
+
+subPackage {
+	name "Sort-using-a-custom-comparator"
+	targetType "executable"
+	targetName "Sort-using-a-custom-comparator"
+	targetPath "run"
+	sourcePaths "source/Sort-using-a-custom-comparator"
+}
+
+subPackage {
+	name "Sorting-algorithms-Bead-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Bead-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Bead-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Bogosort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Bogosort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Bogosort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Bubble-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Bubble-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Bubble-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Cocktail-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Cocktail-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Cocktail-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Comb-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Comb-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Comb-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Counting-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Counting-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Counting-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Gnome-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Gnome-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Gnome-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Heapsort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Heapsort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Heapsort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Insertion-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Insertion-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Insertion-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Merge-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Merge-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Merge-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Pancake-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Pancake-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Pancake-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Permutation-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Permutation-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Permutation-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Quicksort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Quicksort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Quicksort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Radix-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Radix-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Radix-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Selection-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Selection-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Selection-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Shell-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Shell-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Shell-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Sleep-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Sleep-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Sleep-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Stooge-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Stooge-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Stooge-sort"
+}
+
+subPackage {
+	name "Sorting-algorithms-Strand-sort"
+	targetType "executable"
+	targetName "Sorting-algorithms-Strand-sort"
+	targetPath "run"
+	sourcePaths "source/Sorting-algorithms-Strand-sort"
+}
+
+subPackage {
+	name "Soundex"
+	targetType "executable"
+	targetName "Soundex"
+	targetPath "run"
+	sourcePaths "source/Soundex"
+}
+
+subPackage {
+	name "Sparkline-in-unicode"
+	targetType "executable"
+	targetName "Sparkline-in-unicode"
+	targetPath "run"
+	sourcePaths "source/Sparkline-in-unicode"
+}
+
+subPackage {
+	name "Spiral-matrix"
+	targetType "executable"
+	targetName "Spiral-matrix"
+	targetPath "run"
+	sourcePaths "source/Spiral-matrix"
+}
+
+subPackage {
+	name "Stable-marriage-problem"
+	targetType "executable"
+	targetName "Stable-marriage-problem"
+	targetPath "run"
+	sourcePaths "source/Stable-marriage-problem"
+}
+
+subPackage {
+	name "Stack"
+	targetType "executable"
+	targetName "Stack"
+	targetPath "run"
+	sourcePaths "source/Stack"
+}
+
+subPackage {
+	name "Stack-traces"
+	targetType "executable"
+	targetName "Stack-traces"
+	targetPath "run"
+	sourcePaths "source/Stack-traces"
+}
+
+subPackage {
+	name "Stair-climbing-puzzle"
+	targetType "executable"
+	targetName "Stair-climbing-puzzle"
+	targetPath "run"
+	sourcePaths "source/Stair-climbing-puzzle"
+}
+
+subPackage {
+	name "Standard-deviation"
+	targetType "executable"
+	targetName "Standard-deviation"
+	targetPath "run"
+	sourcePaths "source/Standard-deviation"
+}
+
+subPackage {
+	name "State-name-puzzle"
+	targetType "executable"
+	targetName "State-name-puzzle"
+	targetPath "run"
+	sourcePaths "source/State-name-puzzle"
+}
+
+subPackage {
+	name "Statistics-Basic"
+	targetType "executable"
+	targetName "Statistics-Basic"
+	targetPath "run"
+	sourcePaths "source/Statistics-Basic"
+}
+
+subPackage {
+	name "Stem-and-leaf-plot"
+	targetType "executable"
+	targetName "Stem-and-leaf-plot"
+	targetPath "run"
+	sourcePaths "source/Stem-and-leaf-plot"
+}
+
+subPackage {
+	name "Stern-Brocot-sequence"
+	targetType "executable"
+	targetName "Stern-Brocot-sequence"
+	targetPath "run"
+	sourcePaths "source/Stern-Brocot-sequence"
+}
+
+subPackage {
+	name "String-append"
+	targetType "executable"
+	targetName "String-append"
+	targetPath "run"
+	sourcePaths "source/String-append"
+}
+
+subPackage {
+	name "String-case"
+	targetType "executable"
+	targetName "String-case"
+	targetPath "run"
+	sourcePaths "source/String-case"
+}
+
+subPackage {
+	name "String-comparison"
+	targetType "executable"
+	targetName "String-comparison"
+	targetPath "run"
+	sourcePaths "source/String-comparison"
+}
+
+subPackage {
+	name "String-concatenation"
+	targetType "executable"
+	targetName "String-concatenation"
+	targetPath "run"
+	sourcePaths "source/String-concatenation"
+}
+
+subPackage {
+	name "String-interpolation--included-"
+	targetType "executable"
+	targetName "String-interpolation--included-"
+	targetPath "run"
+	sourcePaths "source/String-interpolation--included-"
+}
+
+subPackage {
+	name "String-length"
+	targetType "executable"
+	targetName "String-length"
+	targetPath "run"
+	sourcePaths "source/String-length"
+}
+
+subPackage {
+	name "String-matching"
+	targetType "executable"
+	targetName "String-matching"
+	targetPath "run"
+	sourcePaths "source/String-matching"
+}
+
+subPackage {
+	name "String-prepend"
+	targetType "executable"
+	targetName "String-prepend"
+	targetPath "run"
+	sourcePaths "source/String-prepend"
+}
+
+subPackage {
+	name "Strip-a-set-of-characters-from-a-string"
+	targetType "executable"
+	targetName "Strip-a-set-of-characters-from-a-string"
+	targetPath "run"
+	sourcePaths "source/Strip-a-set-of-characters-from-a-string"
+}
+
+subPackage {
+	name "Strip-block-comments"
+	targetType "executable"
+	targetName "Strip-block-comments"
+	targetPath "run"
+	sourcePaths "source/Strip-block-comments"
+}
+
+subPackage {
+	name "Strip-comments-from-a-string"
+	targetType "executable"
+	targetName "Strip-comments-from-a-string"
+	targetPath "run"
+	sourcePaths "source/Strip-comments-from-a-string"
+}
+
+subPackage {
+	name "Strip-control-codes-and-extended-characters-from-a-string"
+	targetType "executable"
+	targetName "Strip-control-codes-and-extended-characters-from-a-string"
+	targetPath "run"
+	sourcePaths "source/Strip-control-codes-and-extended-characters-from-a-string"
+}
+
+subPackage {
+	name "Strip-whitespace-from-a-string-Top-and-tail"
+	targetType "executable"
+	targetName "Strip-whitespace-from-a-string-Top-and-tail"
+	targetPath "run"
+	sourcePaths "source/Strip-whitespace-from-a-string-Top-and-tail"
+}
+
+subPackage {
+	name "Substring"
+	targetType "executable"
+	targetName "Substring"
+	targetPath "run"
+	sourcePaths "source/Substring"
+}
+
+subPackage {
+	name "Substring-Top-and-tail"
+	targetType "executable"
+	targetName "Substring-Top-and-tail"
+	targetPath "run"
+	sourcePaths "source/Substring-Top-and-tail"
+}
+
+subPackage {
+	name "Subtractive-generator"
+	targetType "executable"
+	targetName "Subtractive-generator"
+	targetPath "run"
+	sourcePaths "source/Subtractive-generator"
+}
+
+subPackage {
+	name "Sudoku"
+	targetType "executable"
+	targetName "Sudoku"
+	targetPath "run"
+	sourcePaths "source/Sudoku"
+}
+
+subPackage {
+	name "Sum-and-product-of-an-array"
+	targetType "executable"
+	targetName "Sum-and-product-of-an-array"
+	targetPath "run"
+	sourcePaths "source/Sum-and-product-of-an-array"
+}
+
+subPackage {
+	name "Sum-digits-of-an-integer"
+	targetType "executable"
+	targetName "Sum-digits-of-an-integer"
+	targetPath "run"
+	sourcePaths "source/Sum-digits-of-an-integer"
+}
+
+subPackage {
+	name "Sum-multiples-of-3-and-5"
+	targetType "executable"
+	targetName "Sum-multiples-of-3-and-5"
+	targetPath "run"
+	sourcePaths "source/Sum-multiples-of-3-and-5"
+}
+
+subPackage {
+	name "Sum-of-a-series"
+	targetType "executable"
+	targetName "Sum-of-a-series"
+	targetPath "run"
+	sourcePaths "source/Sum-of-a-series"
+}
+
+subPackage {
+	name "Sum-of-squares"
+	targetType "executable"
+	targetName "Sum-of-squares"
+	targetPath "run"
+	sourcePaths "source/Sum-of-squares"
+}
+
+subPackage {
+	name "Sutherland-Hodgman-polygon-clipping"
+	targetType "executable"
+	targetName "Sutherland-Hodgman-polygon-clipping"
+	targetPath "run"
+	sourcePaths "source/Sutherland-Hodgman-polygon-clipping"
+}
+
+subPackage {
+	name "Symmetric-difference"
+	targetType "executable"
+	targetName "Symmetric-difference"
+	targetPath "run"
+	sourcePaths "source/Symmetric-difference"
+}
+
+subPackage {
+	name "Synchronous-concurrency"
+	targetType "executable"
+	targetName "Synchronous-concurrency"
+	targetPath "run"
+	sourcePaths "source/Synchronous-concurrency"
+}
+
+subPackage {
+	name "System-time"
+	targetType "executable"
+	targetName "System-time"
+	targetPath "run"
+	sourcePaths "source/System-time"
+}
+
+subPackage {
+	name "Take-notes-on-the-command-line"
+	targetType "executable"
+	targetName "Take-notes-on-the-command-line"
+	targetPath "run"
+	sourcePaths "source/Take-notes-on-the-command-line"
+}
+
+subPackage {
+	name "Temperature-conversion"
+	targetType "executable"
+	targetName "Temperature-conversion"
+	targetPath "run"
+	sourcePaths "source/Temperature-conversion"
+}
+
+subPackage {
+	name "Terminal-control-Clear-the-screen"
+	targetType "executable"
+	targetName "Terminal-control-Clear-the-screen"
+	targetPath "run"
+	sourcePaths "source/Terminal-control-Clear-the-screen"
+}
+
+subPackage {
+	name "Terminal-control-Coloured-text"
+	targetType "executable"
+	targetName "Terminal-control-Coloured-text"
+	targetPath "run"
+	sourcePaths "source/Terminal-control-Coloured-text"
+}
+
+subPackage {
+	name "Terminal-control-Display-an-extended-character"
+	targetType "executable"
+	targetName "Terminal-control-Display-an-extended-character"
+	targetPath "run"
+	sourcePaths "source/Terminal-control-Display-an-extended-character"
+}
+
+subPackage {
+	name "Terminal-control-Ringing-the-terminal-bell"
+	targetType "executable"
+	targetName "Terminal-control-Ringing-the-terminal-bell"
+	targetPath "run"
+	sourcePaths "source/Terminal-control-Ringing-the-terminal-bell"
+}
+
+subPackage {
+	name "Ternary-logic"
+	targetType "executable"
+	targetName "Ternary-logic"
+	targetPath "run"
+	sourcePaths "source/Ternary-logic"
+}
+
+subPackage {
+	name "Test-a-function"
+	targetType "executable"
+	targetName "Test-a-function"
+	targetPath "run"
+	sourcePaths "source/Test-a-function"
+}
+
+subPackage {
+	name "Text-processing-1"
+	targetType "executable"
+	targetName "Text-processing-1"
+	targetPath "run"
+	sourcePaths "source/Text-processing-1"
+}
+
+subPackage {
+	name "Text-processing-2"
+	targetType "executable"
+	targetName "Text-processing-2"
+	targetPath "run"
+	sourcePaths "source/Text-processing-2"
+}
+
+subPackage {
+	name "Text-processing-Max-licenses-in-use"
+	targetType "executable"
+	targetName "Text-processing-Max-licenses-in-use"
+	targetPath "run"
+	sourcePaths "source/Text-processing-Max-licenses-in-use"
+}
+
+subPackage {
+	name "Textonyms"
+	targetType "executable"
+	targetName "Textonyms"
+	targetPath "run"
+	sourcePaths "source/Textonyms"
+}
+
+subPackage {
+	name "The-ISAAC-Cipher"
+	targetType "executable"
+	targetName "The-ISAAC-Cipher"
+	targetPath "run"
+	sourcePaths "source/The-ISAAC-Cipher"
+}
+
+subPackage {
+	name "The-Twelve-Days-of-Christmas"
+	targetType "executable"
+	targetName "The-Twelve-Days-of-Christmas"
+	targetPath "run"
+	sourcePaths "source/The-Twelve-Days-of-Christmas"
+}
+
+subPackage {
+	name "Thieles-interpolation-formula"
+	targetType "executable"
+	targetName "Thieles-interpolation-formula"
+	targetPath "run"
+	sourcePaths "source/Thieles-interpolation-formula"
+}
+
+subPackage {
+	name "Tic-tac-toe"
+	targetType "executable"
+	targetName "Tic-tac-toe"
+	targetPath "run"
+	sourcePaths "source/Tic-tac-toe"
+}
+
+subPackage {
+	name "Time-a-function"
+	targetType "executable"
+	targetName "Time-a-function"
+	targetPath "run"
+	sourcePaths "source/Time-a-function"
+}
+
+subPackage {
+	name "Tokenize-a-string"
+	targetType "executable"
+	targetName "Tokenize-a-string"
+	targetPath "run"
+	sourcePaths "source/Tokenize-a-string"
+}
+
+subPackage {
+	name "Top-rank-per-group"
+	targetType "executable"
+	targetName "Top-rank-per-group"
+	targetPath "run"
+	sourcePaths "source/Top-rank-per-group"
+}
+
+subPackage {
+	name "Topological-sort"
+	targetType "executable"
+	targetName "Topological-sort"
+	targetPath "run"
+	sourcePaths "source/Topological-sort"
+}
+
+subPackage {
+	name "Topswops"
+	targetType "executable"
+	targetName "Topswops"
+	targetPath "run"
+	sourcePaths "source/Topswops"
+}
+
+subPackage {
+	name "Total-circles-area"
+	targetType "executable"
+	targetName "Total-circles-area"
+	targetPath "run"
+	sourcePaths "source/Total-circles-area"
+}
+
+subPackage {
+	name "Towers-of-Hanoi"
+	targetType "executable"
+	targetName "Towers-of-Hanoi"
+	targetPath "run"
+	sourcePaths "source/Towers-of-Hanoi"
+}
+
+subPackage {
+	name "Trabb-Pardo-Knuth-algorithm"
+	targetType "executable"
+	targetName "Trabb-Pardo-Knuth-algorithm"
+	targetPath "run"
+	sourcePaths "source/Trabb-Pardo-Knuth-algorithm"
+}
+
+subPackage {
+	name "Tree-traversal"
+	targetType "executable"
+	targetName "Tree-traversal"
+	targetPath "run"
+	sourcePaths "source/Tree-traversal"
+}
+
+subPackage {
+	name "Trigonometric-functions"
+	targetType "executable"
+	targetName "Trigonometric-functions"
+	targetPath "run"
+	sourcePaths "source/Trigonometric-functions"
+}
+
+subPackage {
+	name "Truncatable-primes"
+	targetType "executable"
+	targetName "Truncatable-primes"
+	targetPath "run"
+	sourcePaths "source/Truncatable-primes"
+}
+
+subPackage {
+	name "Truncate-a-file"
+	targetType "executable"
+	targetName "Truncate-a-file"
+	targetPath "run"
+	sourcePaths "source/Truncate-a-file"
+}
+
+subPackage {
+	name "Twelve-statements"
+	targetType "executable"
+	targetName "Twelve-statements"
+	targetPath "run"
+	sourcePaths "source/Twelve-statements"
+}
+
+subPackage {
+	name "URL-decoding"
+	targetType "executable"
+	targetName "URL-decoding"
+	targetPath "run"
+	sourcePaths "source/URL-decoding"
+}
+
+subPackage {
+	name "URL-encoding"
+	targetType "executable"
+	targetName "URL-encoding"
+	targetPath "run"
+	sourcePaths "source/URL-encoding"
+}
+
+subPackage {
+	name "Ulam-spiral--for-primes-"
+	targetType "executable"
+	targetName "Ulam-spiral--for-primes-"
+	targetPath "run"
+	sourcePaths "source/Ulam-spiral--for-primes-"
+}
+
+subPackage {
+	name "Unbias-a-random-generator"
+	targetType "executable"
+	targetName "Unbias-a-random-generator"
+	targetPath "run"
+	sourcePaths "source/Unbias-a-random-generator"
+}
+
+subPackage {
+	name "Undefined-values"
+	targetType "executable"
+	targetName "Undefined-values"
+	targetPath "run"
+	sourcePaths "source/Undefined-values"
+}
+
+subPackage {
+	name "Unicode-variable-names"
+	targetType "executable"
+	targetName "Unicode-variable-names"
+	targetPath "run"
+	sourcePaths "source/Unicode-variable-names"
+}
+
+subPackage {
+	name "Universal-Turing-machine"
+	targetType "executable"
+	targetName "Universal-Turing-machine"
+	targetPath "run"
+	sourcePaths "source/Universal-Turing-machine"
+}
+
+subPackage {
+	name "Unix-ls"
+	targetType "executable"
+	targetName "Unix-ls"
+	targetPath "run"
+	sourcePaths "source/Unix-ls"
+}
+
+subPackage {
+	name "Update-a-configuration-file"
+	targetType "executable"
+	targetName "Update-a-configuration-file"
+	targetPath "run"
+	sourcePaths "source/Update-a-configuration-file"
+}
+
+subPackage {
+	name "Use-another-language-to-call-a-function"
+	targetType "executable"
+	targetName "Use-another-language-to-call-a-function"
+	targetPath "run"
+	sourcePaths "source/Use-another-language-to-call-a-function"
+}
+
+subPackage {
+	name "User-input-Text"
+	targetType "executable"
+	targetName "User-input-Text"
+	targetPath "run"
+	sourcePaths "source/User-input-Text"
+}
+
+subPackage {
+	name "Vampire-number"
+	targetType "executable"
+	targetName "Vampire-number"
+	targetPath "run"
+	sourcePaths "source/Vampire-number"
+}
+
+subPackage {
+	name "Van-der-Corput-sequence"
+	targetType "executable"
+	targetName "Van-der-Corput-sequence"
+	targetPath "run"
+	sourcePaths "source/Van-der-Corput-sequence"
+}
+
+subPackage {
+	name "Variable-length-quantity"
+	targetType "executable"
+	targetName "Variable-length-quantity"
+	targetPath "run"
+	sourcePaths "source/Variable-length-quantity"
+}
+
+subPackage {
+	name "Variable-size-Get"
+	targetType "executable"
+	targetName "Variable-size-Get"
+	targetPath "run"
+	sourcePaths "source/Variable-size-Get"
+}
+
+subPackage {
+	name "Variable-size-Set"
+	targetType "executable"
+	targetName "Variable-size-Set"
+	targetPath "run"
+	sourcePaths "source/Variable-size-Set"
+}
+
+subPackage {
+	name "Variables"
+	targetType "executable"
+	targetName "Variables"
+	targetPath "run"
+	sourcePaths "source/Variables"
+}
+
+subPackage {
+	name "Variadic-function"
+	targetType "executable"
+	targetName "Variadic-function"
+	targetPath "run"
+	sourcePaths "source/Variadic-function"
+}
+
+subPackage {
+	name "Vector-products"
+	targetType "executable"
+	targetName "Vector-products"
+	targetPath "run"
+	sourcePaths "source/Vector-products"
+}
+
+subPackage {
+	name "Verify-distribution-uniformity-Chi-squared-test"
+	targetType "executable"
+	targetName "Verify-distribution-uniformity-Chi-squared-test"
+	targetPath "run"
+	sourcePaths "source/Verify-distribution-uniformity-Chi-squared-test"
+}
+
+subPackage {
+	name "Verify-distribution-uniformity-Naive"
+	targetType "executable"
+	targetName "Verify-distribution-uniformity-Naive"
+	targetPath "run"
+	sourcePaths "source/Verify-distribution-uniformity-Naive"
+}
+
+subPackage {
+	name "Vigen-re-cipher"
+	targetType "executable"
+	targetName "Vigen-re-cipher"
+	targetPath "run"
+	sourcePaths "source/Vigen-re-cipher"
+}
+
+subPackage {
+	name "Vigen-re-cipher-Cryptanalysis"
+	targetType "executable"
+	targetName "Vigen-re-cipher-Cryptanalysis"
+	targetPath "run"
+	sourcePaths "source/Vigen-re-cipher-Cryptanalysis"
+}
+
+subPackage {
+	name "Visualize-a-tree"
+	targetType "executable"
+	targetName "Visualize-a-tree"
+	targetPath "run"
+	sourcePaths "source/Visualize-a-tree"
+}
+
+subPackage {
+	name "Vogels-approximation-method"
+	targetType "executable"
+	targetName "Vogels-approximation-method"
+	targetPath "run"
+	sourcePaths "source/Vogels-approximation-method"
+}
+
+subPackage {
+	name "Voronoi-diagram"
+	targetType "executable"
+	targetName "Voronoi-diagram"
+	targetPath "run"
+	sourcePaths "source/Voronoi-diagram"
+}
+
+subPackage {
+	name "Walk-a-directory-Non-recursively"
+	targetType "executable"
+	targetName "Walk-a-directory-Non-recursively"
+	targetPath "run"
+	sourcePaths "source/Walk-a-directory-Non-recursively"
+}
+
+subPackage {
+	name "Walk-a-directory-Recursively"
+	targetType "executable"
+	targetName "Walk-a-directory-Recursively"
+	targetPath "run"
+	sourcePaths "source/Walk-a-directory-Recursively"
+}
+
+subPackage {
+	name "Web-scraping"
+	targetType "executable"
+	targetName "Web-scraping"
+	targetPath "run"
+	sourcePaths "source/Web-scraping"
+}
+
+subPackage {
+	name "Window-creation"
+	targetType "executable"
+	targetName "Window-creation"
+	targetPath "run"
+	sourcePaths "source/Window-creation"
+}
+
+subPackage {
+	name "Wireworld"
+	targetType "executable"
+	targetName "Wireworld"
+	targetPath "run"
+	sourcePaths "source/Wireworld"
+}
+
+subPackage {
+	name "Word-wrap"
+	targetType "executable"
+	targetName "Word-wrap"
+	targetPath "run"
+	sourcePaths "source/Word-wrap"
+}
+
+subPackage {
+	name "World-Cup-group-stage"
+	targetType "executable"
+	targetName "World-Cup-group-stage"
+	targetPath "run"
+	sourcePaths "source/World-Cup-group-stage"
+}
+
+subPackage {
+	name "Write-float-arrays-to-a-text-file"
+	targetType "executable"
+	targetName "Write-float-arrays-to-a-text-file"
+	targetPath "run"
+	sourcePaths "source/Write-float-arrays-to-a-text-file"
+}
+
+subPackage {
+	name "Write-language-name-in-3D-ASCII"
+	targetType "executable"
+	targetName "Write-language-name-in-3D-ASCII"
+	targetPath "run"
+	sourcePaths "source/Write-language-name-in-3D-ASCII"
+}
+
+subPackage {
+	name "XML-DOM-serialization"
+	targetType "executable"
+	targetName "XML-DOM-serialization"
+	targetPath "run"
+	sourcePaths "source/XML-DOM-serialization"
+}
+
+subPackage {
+	name "XML-Input"
+	targetType "executable"
+	targetName "XML-Input"
+	targetPath "run"
+	sourcePaths "source/XML-Input"
+}
+
+subPackage {
+	name "XML-Output"
+	targetType "executable"
+	targetName "XML-Output"
+	targetPath "run"
+	sourcePaths "source/XML-Output"
+}
+
+subPackage {
+	name "XML-XPath"
+	targetType "executable"
+	targetName "XML-XPath"
+	targetPath "run"
+	sourcePaths "source/XML-XPath"
+}
+
+subPackage {
+	name "Xiaolin-Wus-line-algorithm"
+	targetType "executable"
+	targetName "Xiaolin-Wus-line-algorithm"
+	targetPath "run"
+	sourcePaths "source/Xiaolin-Wus-line-algorithm"
+}
+
+subPackage {
+	name "Y-combinator"
+	targetType "executable"
+	targetName "Y-combinator"
+	targetPath "run"
+	sourcePaths "source/Y-combinator"
+}
+
+subPackage {
+	name "Yahoo--search-interface"
+	targetType "executable"
+	targetName "Yahoo--search-interface"
+	targetPath "run"
+	sourcePaths "source/Yahoo--search-interface"
+}
+
+subPackage {
+	name "Yin-and-yang"
+	targetType "executable"
+	targetName "Yin-and-yang"
+	targetPath "run"
+	sourcePaths "source/Yin-and-yang"
+}
+
+subPackage {
+	name "Zebra-puzzle"
+	targetType "executable"
+	targetName "Zebra-puzzle"
+	targetPath "run"
+	sourcePaths "source/Zebra-puzzle"
+}
+
+subPackage {
+	name "Zeckendorf-number-representation"
+	targetType "executable"
+	targetName "Zeckendorf-number-representation"
+	targetPath "run"
+	sourcePaths "source/Zeckendorf-number-representation"
+}
+
+subPackage {
+	name "Zero-to-the-zero-power"
+	targetType "executable"
+	targetName "Zero-to-the-zero-power"
+	targetPath "run"
+	sourcePaths "source/Zero-to-the-zero-power"
+}
+
+subPackage {
+	name "Zhang-Suen-thinning-algorithm"
+	targetType "executable"
+	targetName "Zhang-Suen-thinning-algorithm"
+	targetPath "run"
+	sourcePaths "source/Zhang-Suen-thinning-algorithm"
+}
+
+subPackage {
+	name "Zig-zag-matrix"
+	targetType "executable"
+	targetName "Zig-zag-matrix"
+	targetPath "run"
+	sourcePaths "source/Zig-zag-matrix"
+}
