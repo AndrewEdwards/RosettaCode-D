@@ -35,7 +35,7 @@ subPackage {
 	targetName "24-game-solve"
 	targetPath "run"
 	sourcePaths "source/24-game-solve"
-	dependency "rosettacode-d:permutations-2" version:"*"
+	dependency "rosettacode-d:permutations-2" version="*"
 }
 
 subPackage {
