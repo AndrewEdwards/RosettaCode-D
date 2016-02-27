@@ -97,7 +97,10 @@ dub build :Closest-pair-problem
 dub build :Closures-Value-capture
 dub build :Collections
 dub build :Color-quantization
-dub build :Combinations
+dub build :Combinations-1
+dub build :Combinations-2
+dub build :Combinations-3
+dub build :Combinations-4
 dub build :Combinations-and-permutations
 dub build :Combinations-with-repetitions
 dub build :Comma-quibbling

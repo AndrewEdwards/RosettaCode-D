@@ -227,6 +227,7 @@ subPackage {
 	targetName "Arithmetic-Rational"
 	targetPath "run"
 	sourcePaths "source/Arithmetic-Rational"
+	versions "arithmetic-rational_main"
 }
 
 subPackage {
@@ -475,6 +476,7 @@ subPackage {
 	targetName "Bitmap-Bresenhams-line-algorithm"
 	targetPath "run"
 	sourcePaths "source/Bitmap-Bresenhams-line-algorithm"
+	versions "bitmap_bresenhams_line_algorithm_main"
 }
 
 subPackage {
@@ -782,11 +784,37 @@ subPackage {
 }
 
 subPackage {
-	name "Combinations"
+	name "Combinations-1"
 	targetType "executable"
-	targetName "Combinations"
+	targetName "Combinations-1"
 	targetPath "run"
-	sourcePaths "source/Combinations"
+	sourcePaths "source/Combinations-1"
+}
+
+subPackage {
+	name "Combinations-2"
+	targetType "executable"
+	targetName "Combinations-2"
+	targetPath "run"
+	sourcePaths "source/Combinations-2"
+}
+
+subPackage {
+	name "Combinations-3"
+	targetType "executable"
+	targetName "Combinations-3"
+	targetPath "run"
+	sourcePaths "source/Combinations-3"
+	versions "combinations3_main"
+}
+
+subPackage {
+	name "Combinations-4"
+	targetType "executable"
+	targetName "Combinations-4"
+	targetPath "run"
+	sourcePaths "source/Combinations-4"
+	versions "combinations4_main"
 }
 
 subPackage {
