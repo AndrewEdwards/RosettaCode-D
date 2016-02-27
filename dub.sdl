@@ -35,7 +35,7 @@ subPackage {
 	targetName "24-game-solve"
 	targetPath "run"
 	sourcePaths "source/24-game-solve"
-	dependency "rosettacode-d:permutations-2"
+	dependency "rosettacode-d:permutations-2" version:"*"
 }
 
 subPackage {
@@ -1152,7 +1152,7 @@ subPackage {
 	targetName "dinesmans-multiple-dwelling-problem-1"
 	targetPath "run"
 	sourcePaths "source/dinesmans-multiple-dwelling-problem-1"
-	dependency "rosettacode-d:permutations-2"
+	g"rosettacode-d:permutations-2" version="*"
 }
 
 subPackage {
